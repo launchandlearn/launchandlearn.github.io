@@ -12,7 +12,7 @@ Source code for a book by Andranik Okroyan
 
 ### DOCX [_Launch and Learn_]( launch-and-learn-by-andranik-okroyan.docx )
 
-### HTML [_Launch and Learn_]( launch-and-learn-by-andranik-okroyan.html )
+### HTML [_Launch and Learn_]( https://launchandlearn.github.io/launch-and-learn-by-andranik-okroyan.html )
 
 
 ## Change Log

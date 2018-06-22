@@ -25,6 +25,7 @@ Source code for a book by Andranik Okroyan
 ### 2018-06-21
 
 * First commit
+
 ***
 
 # <center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > ❦ </a></center>

@@ -28,13 +28,17 @@ Text for the version of 2018-06-21
 
 ### Change Log
 
-#### 2018-06-20
+#### 2018-06-22
+
+* Add cover image
+
+#### 2018-06-21
 
 * Add pdf, docx and html files
 * Update read me. Add text and links
 * Update license to Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-#### 2018-06-21
+#### 2018-06-20
 
 * First commit
 

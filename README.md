@@ -1,4 +1,4 @@
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/launch-and-learn-online.html "View file as a web page." ) </span>
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html "View file as a web page." ) </span>
 
 <div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io'";
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
@@ -16,7 +16,7 @@ From the conclusion:
 >
 > Life is a balance, make sure whatever you do, you are not too engaged in one thing and that your life is a balance and variety. Make sure that whatever you do, you do with love and with energy. I wish you luck and success in your endeavors. It took me years to write this, and a lifetime to understand it. I kept it short so that you can get the most valuable information. I didn't go deep with the tools as they always change, and are different to every environment. I went with principles instead of describing the tools I went with describing the activities, systems and building blocks of them, so you can mold them and apply them anywhere. Now you know what happens and how your body reacts to the world around it go explore deeper and be a good samaritan pass the knowledge.
 
-Text for the version of 2018-06-21
+Download the text of the book for the version of 2018-06-21
 
 ### PDF [_Launch and Learn_]( launch-and-learn-by-andranik-okroyan.pdf )
 
@@ -31,6 +31,11 @@ Text for the version of 2018-06-21
 
 
 ### Change Log
+
+#### 2018-06-23
+
+* Add index.html with basic content management system
+* Add online version of the book with sidebar menu
 
 #### 2018-06-22
 

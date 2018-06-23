@@ -3,7 +3,7 @@
 
 _Source code for a book by Andranik Okroyan_
 
-<img src=launch-and-learn-cover.png width=900px >
+<img src="launch-and-learn-cover.png" width=900px >
 
 
 From the conclusion:

@@ -1,9 +1,13 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/launch-and-learn-online.html "View file as a web page." ) </span>
+
+<div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io'";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
 
 # [_Launch and Learn_ Read Me]( #README.md )
 
 _Source code for a book by Andranik Okroyan_
 
-<img alt="launch and learn cover" src="https://launchandlearn.github.io/launch-and-learn-cover.png" />
+<img alt="launch and learn cover" src="https://launchandlearn.github.io/launch-and-learn-cover.png" style=max-width:900px;/>
 
 
 From the conclusion:

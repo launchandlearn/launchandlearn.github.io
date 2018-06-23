@@ -1,9 +1,10 @@
 
 # [_Launch and Learn_ Read Me]( #README.md )
 
+_Source code for a book by Andranik Okroyan_
+
 <img src=launch-and-learn-cover.png width=800px >
 
-Source code for a book by Andranik Okroyan
 
 From the conclusion:
 

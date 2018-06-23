@@ -1,7 +1,7 @@
 
 # [_Launch and Learn_ Read Me]( #README.md )
 
-<img src=launch-and-learn-cover.png width=800px )
+<img src=launch-and-learn-cover.png width=800px >
 
 Source code for a book by Andranik Okroyan
 

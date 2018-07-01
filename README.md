@@ -1,7 +1,7 @@
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html "View file as a web page." ) </span>
 
 <div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io'";
-value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
 
 # [_Launch and Learn_ Read Me]( #README.md )
 
@@ -32,6 +32,12 @@ Download the text of the book for the version of 2018-06-21
 
 ### Change Log
 
+#### 2018-06-30
+
+* Add select a Bootswatch theme
+* Update CSS classes throughout
+* Fixes to slider menu
+
 #### 2018-06-23
 
 * Add index.html with basic content management system
@@ -53,4 +59,4 @@ Download the text of the book for the version of 2018-06-21
 
 ***
 
-# <center title="hello!" >❦</center>
+#### <center title="hello!" >❦</center>

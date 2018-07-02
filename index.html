@@ -172,7 +172,7 @@ init();
 
 function init() {
 
-	const themeName = localStorage.getItem( 'themeName' );
+	const themeName = localStorage.getItem( 'themeName' ) || 'Cerulean';
 	selTheme.value = themeName ? themeName : 'Cerulean' ;
 	css.href = "https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/" + themeName.toLowerCase() + "/bootstrap.min.css"
 

@@ -32,6 +32,12 @@ Download the text of the book for the version of 2018-06-21
 
 ### Change Log
 
+
+#### 2018-07-02
+
+* Select theme dropdown shows options with theme's colors
+* Set menu footer dingbat to be a link so it takes on theme color
+
 #### 2018-06-30
 
 * Add select a Bootswatch theme

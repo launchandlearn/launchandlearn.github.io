@@ -5,7 +5,7 @@
 <meta name="viewport" content = "width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" >
 <meta name=description content="Browse the source code for a book by Andranik Okroyan" >
 <meta name=keywords content="JavaScript,GitHub,FOSS,3D,STEM" >
-<meta name = "date" content = "2018-07-02" >
+<meta name = "date" content = ",dc " >
 <title>Launch and Learn Online</title>
 <style>
 /* Copyright 2018 Launch and Learn authors. MIT License */
@@ -16,66 +16,25 @@
 
 	}
 
-	html { height: 100%; margin: 0; }
+	html { height: 100%; }
 
-	body {  height: 100%; margin: 0; }
 	img { max-height: 600px; max-width: 800px; }
 
 	#divContainer { height: 100%; margin: 0 0 0 var( --mnu-width ); transition: margin-left .5s; position: relative; }
 	#divContents { height: 100%; left: 0; margin: 0 auto; max-width: 800px; right: 0;}
 
+
+	#hamburger { cursor: pointer; font-size: 36px; left: calc( var( --mnu-width ) - 100px );
+		line-height: 30px; margin: 0; padding: 5px 15px 8px 10px; position: fixed; top: 0.5rem; transition: left 0.5s; z-index: 10; }
+
+
 	#divMenu { max-height: 100%; margin: 20px;
 		overflow-x: hidden; padding: 25px 10px 30px 10px; position: fixed; top: 0;
 		width: var( --mnu-width ); z-index: 1; transition: left 0.5s; }
-	#hamburger { cursor: pointer; font-size: 30px; left: calc( var( --mnu-width ) - 100px );
-		line-height: 30px; margin: 0; padding: 5px 15px 8px 10px; position: fixed; top: 0; transition: left 0.5s; z-index: 10; }
 
 
-	.default { background-color: white; color: #007bff; }
-	.cerulean { background-color: white; color: #2FA4E7; }
-	.cosmo { background-color: white; color: #2780E3; }
-	.cyborg { background-color: #060606; color: #2A9FD6; }
-	.darkly { background-color: #222; color: #00bc8c; }
-	.flatly { background-color: white; color: #18BC9C; }
-	.journal { background-color: white; color: #EB6864; }
-	.litera { background-color: white; color: #4582EC; }
-	.lumen { background-color: white; color: #158CBA; }
-	.lux { background-color: white; color: #1a1a1a; }
-	.materia { background-color: white; color: #2196F3; }
-	.minty { background-color: white; color: #78C2AD; }
-	.pulse { background-color: white; color: #593196; }
-	.sandstone { background-color: white; color: #93C54B; }
-	.simplex { background-color: white; color: #D9230F; }
-	.sketchy { background-color: white; color: #333; }
-	.slate { background-color: #272B30; color: #fff; }
-	.solar { background-color: #002B36; color: #839496; }
-	.spacelab { background-color: white; color: #3399F3; }
-	.superhero { background-color: #2B3E50; color: #DF691A; }
-	.united { background-color: white; color: #E95420; }
-	.yeti { background-color: white; color: #008cba; }
+	.c2 { font-weight: bold }
 
-/* https://www.w3schools.com/colors/colors_names.asp // use colors and borders to help identify the scope of particular elements */
-
-/*
-	html { --mnu-color: crimson; --mnu-back-color: Linen; --mnu-width:250px; height: 100%; }
-
-	body, html { font: 12pt "Trebuchet MS", helvetica, sans-serif; height: 100%; margin: 0; }
-
-	a { color: var( --mnu-color ); text-decoration: none; }
-	a:hover, a:focus, #hamburger:hover { background-color: yellow; color: #888; }
-
-	blockquote, pre { background-color: #eee; padding: 10px; }
-	button, input[ type=button ] { background-color: #ddd; border: none; color: var( --mnu-color ); cursor: pointer; padding: 3px 20px; }
-	button:hover { background-color: #ccc; color: white }
-
-	iframe { /*border: none; *//* width: 100%; }
-
-	input[ type = range ] { -webkit-appearance: none; -moz-appearance: none; background-color: #ddd; width: 100%; }
-	input[ type = range ]::-moz-range-thumb { background-color: #888; border-radius: 0; width: 10px; }
-	input[ type = range ]::-webkit-slider-thumb { -webkit-appearance: none; background-color: #888; height: 20px; width: 10px; }
-
-	td { vertical-align: top; }
-*/
 
 </style>
 <link id=css rel="stylesheet" type="text/css" >
@@ -86,6 +45,7 @@
 
 	<div id = "divMenu" title="The 10 steps to success" class="jumbotron" >
 
+		<!--	 -->
 		<div id = "divTitle" ></div>
 
 		<div id = "divMenuLinks" >
@@ -102,48 +62,47 @@
 
 		<div id= "divFooter" >
 
-			<select id=selTheme onchange=updateCss(this); class="form-control" >
-				<option class=default >Default</option>
-				<option class=cerulean >Cerulean</option>
-				<option class=cosmo >Cosmo</option>
-				<option class=cyborg >Cyborg</option>
-				<option class=darkly >Darkly</option>
-				<option class=flatly >Flatly</option>
-				<option class=journal >Journal</option>
-				<option class=litera >Litera</option>
-				<option class=lumen >Lumen</option>
-				<option class=lux >Lux</option>
-				<option class=meteria >Materia</option>
-				<option class=minty >Minty</option>
-				<option class=pulse >Pulse</option>
-				<option class=sandstone >Sandstone</option>
-				<option class=simplex >Simplex</option>
-				<option class=sketchy >Sketchy</option>
-				<option class=slate >Slate</option>
-				<option class=solar >Solar</option>
-				<option class=spacelab >Spacelab</option>
-				<option class=superhero >Superhero</option>
-				<option class=united >United</option>
-				<option class=yeti >Yeti</option>
-			</select>
+				<select id=selTheme onchange=updateCss(this); class="form-control" >
+					<option>Cerulean</option>
+					<option>Cosmo</option>
+					<option>Cyborg</option>
+					<option>Darkly</option>
+					<option>Flatly</option>
+					<option>Journal</option>
+					<option>Litera</option>
+					<option>Lumen</option>
+					<option>Lux</option>
+					<option>Materia</option>
+					<option>Minty</option>
+					<option>Pulse</option>
+					<option>Sandstone</option>
+					<option>Simplex</option>
+					<option>Sketchy</option>
+					<option>Slate</option>
+					<option>Solar</option>
+					<option>Spacelab</option>
+					<option>Superhero</option>
+					<option>United</option>
+					<option>Yeti</option>
+				</select>
 
-
-			<div><a href=#LICENSE.md >License</a></div>
-				<!--
-				<div title='many thanks!' ><a href=#../pages/credits.md >Credits</a></div>
-				<div><a href=#../pages/code-of-conduct.md >Code of Conduct</a></div>
-				<div><a href=#../pages/contributing.md >Contributing</a></div>
-				<div><a href=#../pages/markdown-help.md >Markdown Help</a></div>
-				<div><a href="javascript:( function(){ var script=document.createElement('script');script.onload=function(){var stats=new Stats();document.body.appendChild(stats.dom);requestAnimationFrame(function loop(){stats.update();requestAnimationFrame(loop)});};script.src='https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js';document.head.appendChild(script);})()" title="Mr.doob's Stats.js appear in top left corner" >Show frames/second statistics</a></div>
-				<div><a href="https://api.github.com/rate_limit" target=_blank title='If menu stops appearing, it is likely due to too many API calls' >View GitHub API Rate Limits</a></div>
-				-->
 			</div>
 
-			<h3 style=cursor:pointer;text-align:center;><a href="JavaScript:divMenu.scrollTop=0;"  title='go to top of page' > &#x2766; </a></h3>
+			<div><a href=#LICENSE.md >License</a></div>
+			<!--
+			<div title='many thanks!' ><a href=#../pages/credits.md >Credits</a></div>
+			<div><a href=#../pages/code-of-conduct.md >Code of Conduct</a></div>
+			<div><a href=#../pages/contributing.md >Contributing</a></div>
+			<div><a href=#../pages/markdown-help.md >Markdown Help</a></div>
+			<div><a href="javascript:( function(){ var script=document.createElement('script');script.onload=function(){var stats=new Stats();document.body.appendChild(stats.dom);requestAnimationFrame(function loop(){stats.update();requestAnimationFrame(loop)});};script.src='https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js';document.head.appendChild(script);})()" title="Mr.doob's Stats.js appear in top left corner" >Show frames/second statistics</a></div>
+			<div><a href="https://api.github.com/rate_limit" target=_blank title='If menu stops appearing, it is likely due to too many API calls' >View GitHub API Rate Limits</a></div>
+			-->
+
+			<h3 onclick=divMenu.scrollTop=0; style=cursor:pointer;text-align:center; title='go to top of page' > &#x2766; </h3>
 
 		</div>
 
-
+	</div>
 
 	<div id = "divContainer" >
 
@@ -172,10 +131,6 @@ init();
 
 function init() {
 
-	const themeName = localStorage.getItem( 'themeName' );
-	selTheme.value = themeName ? themeName : 'Cerulean' ;
-	css.href = "https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/" + themeName.toLowerCase() + "/bootstrap.min.css"
-
 	divTitle.innerHTML =
 		`
 		<h2>
@@ -194,15 +149,19 @@ function init() {
 
 	onHashChange();
 
+	const themeName = localStorage.getItem( 'themeName' );
+	selTheme.value = themeName ? themeName : 'Cerulean' ;
+	css.href = "https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/" + selTheme.value.toLowerCase() + "/bootstrap.min.css"
+
 }
 
 
 
 function updateCss( that ) {
 
-	css.href = that.value === 'Default' ? "https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css" :
-		"https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/" + that.value.toLowerCase() + "/bootstrap.min.css"
-	localStorage.setItem( 'themeName', that.value );
+	css.href = "https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/" + that.value.toLowerCase() + "/bootstrap.min.css"
+	const themeName = that.value;
+	localStorage.setItem('themeName', themeName );
 
 }
 

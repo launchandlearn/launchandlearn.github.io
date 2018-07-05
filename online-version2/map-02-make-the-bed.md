@@ -1,3 +1,9 @@
+
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html#online-version2/map-02-make-the-bed.md "View file as a web page." ) </span>
+
+<div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/online-version2/map-02-make-the-bed.md'";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+
 ## MAP 2: MAKE THE BED
 
 Can you remember the many times when your parents nagged and nagged you until you made your bed? You see making your bed in the morning before heading out a pointless task. You only agree to do it when your mom insists that you can leave the house after you have made your bed. You sluggishly go to make your bed while coming up with different reasons why making the bed is a bad idea. You come up with reasons like the bed is going to get messed up again, my bed is pushed against the wall, and it's hard to keep the sheets tucked in.

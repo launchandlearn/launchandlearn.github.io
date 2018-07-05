@@ -1,3 +1,11 @@
+
+
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html#online-version2/map-06-creative-critique-and-artist-within.md "View file as a web page." ) </span>
+
+<div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/online-version2/map-06-creative-critique-and-artist-within.md'";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+
+
 ## MAP 6: CREATIVE CRITIQUE & ARTIST WITHIN
 
 The former steps have gone the extra mile to charge the brain with the help of either a lemon drink or tea, conventionally referred to as alkaline. The alkalinity is a charge and therefore helps with neuroplasticity and neurogenesis with the assurance of one performing faster and more efficiently. Very well, the cold shower not only woke you up, but also increased the alkalinity in your blood, which again increases the charge. For instance, the adrenal does the same, the adrenal jump also increases alkalinity.

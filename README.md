@@ -9,14 +9,15 @@ _Source code for a book by Andranik Okroyan_
 
 <img alt="launch and learn cover" src="https://launchandlearn.github.io/launch-and-learn-cover.png" style=max-width:900px;/>
 
-
 From the conclusion:
+<div class=jumbotron >
+The balance of life<br>
+</br>
 
->The balance of life
->
-> Life is a balance, make sure whatever you do, you are not too engaged in one thing and that your life is a balance and variety. Make sure that whatever you do, you do with love and with energy. I wish you luck and success in your endeavors. It took me years to write this, and a lifetime to understand it. I kept it short so that you can get the most valuable information. I didn't go deep with the tools as they always change, and are different to every environment. I went with principles instead of describing the tools I went with describing the activities, systems and building blocks of them, so you can mold them and apply them anywhere. Now you know what happens and how your body reacts to the world around it go explore deeper and be a good samaritan pass the knowledge.
+Life is a balance, make sure whatever you do, you are not too engaged in one thing and that your life is a balance and variety. Make sure that whatever you do, you do with love and with energy. I wish you luck and success in your endeavors. It took me years to write this, and a lifetime to understand it. I kept it short so that you can get the most valuable information. I didn't go deep with the tools as they always change, and are different to every environment. I went with principles instead of describing the tools I went with describing the activities, systems and building blocks of them, so you can mold them and apply them anywhere. Now you know what happens and how your body reacts to the world around it go explore deeper and be a good samaritan pass the knowledge.
+</div>
 
-Download the text of the book for the version of 2018-06-21
+Use the 'View online' item in the left to read this book online or click the following links to download the text of the book for the version of 2018-06-21
 
 ### PDF [_Launch and Learn_]( launch-and-learn-by-andranik-okroyan.pdf )
 
@@ -32,6 +33,11 @@ Download the text of the book for the version of 2018-06-21
 
 ### Change Log
 
+#### 2018-07-08
+
+* Update developer notes
+* Add more sections in Markdown format
+* Update this read me
 
 #### 2018-07-02
 

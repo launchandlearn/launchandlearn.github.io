@@ -25,6 +25,12 @@ Use the 'View online' item in the left to read this book online or click the fol
 
 ### HTML [_Launch and Learn_]( https://launchandlearn.github.io/launch-and-learn-by-andranik-okroyan.html )
 
+
+### To Do
+
+* Complete adding Markdown headings to the next text
+
+
 ### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
@@ -32,6 +38,13 @@ Use the 'View online' item in the left to read this book online or click the fol
 
 
 ### Change Log
+
+#### 2018-07-15
+
+* Add remaining chapter files and text to View online R2
+* Add View Online R2 menu
+* Add Markdown headings in several - but not all - the new chapters
+
 
 #### 2018-07-08
 

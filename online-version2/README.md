@@ -3,12 +3,23 @@
 <div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/tree/master/online-version2'";
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
 
-# [_Launch and Learn_ Online 2 Read Me]( #online-version2/README.md )
+# [_Launch and Learn_ View Online 2 Read Me]( #online-version2/README.md )
 
 
 
-* [Make the Bed]( https://launchandlearn.github.io/index.html#online-version2/map-02-make-the-bed.md )
-* [Creative Critique and Artist Within]( https://launchandlearn.github.io/index.html#online-version2/map-06-creative-critique-and-artist-within.md )
+The text in this edition of the book is formatted using the [Markdown]( https://en.wikipedia.org/wiki/Markdown ) markup language.
+
+
+### To Do
+
+* Complete adding Markdown Formatting
+* Add illustrations
+* Add links
+
+
+### 2018-07-15
+
+All the text from the original edition is in but adding the Markdown formatting is not yet complete
 
 
 ***

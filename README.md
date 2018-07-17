@@ -47,6 +47,7 @@ Use the 'View online' item in the left to read this book online or click the fol
 * Fixing style sheet for mobile
 * Add button class to read me
 
+
 #### 2018-07-15
 
 * Add remaining chapter files and text to View online R2

@@ -10,24 +10,26 @@
 <style>
 /* Copyright 2018 Launch and Learn authors. MIT License */
 
-	:root { --mnu-width: 20rem; font-size: 1em; }
+	:root {
+
+		--mnu-width: 18rem;
+
+	}
 
 	html { height: 100%; margin: 0; }
 
-	body { height: 100%; margin: 0; }
+	body {  height: 100%; margin: 0; }
 
-	a:hover, a:focus { background-color: yellow; color: #888; }
-	blockquote, pre { background-color:rgba(240, 240, 240, 0.25 ); padding: 1em }
-	button:hover, input[ type=button ]:hover { background-color: #ccc; color: white }
 	img { max-height: 600px; max-width: 800px; }
 
 	#divContainer { height: 100%; margin: 0 0 0 var( --mnu-width ); transition: margin-left .5s; position: relative; }
-	#divContents { height: 100%; left: 0; margin: 0 auto; max-width: 50rem; right: 0;}
+	#divContents { height: 100%; left: 0; margin: 0 auto; max-width: 800px; right: 0;}
 
-	#divMenu { max-height: 100%; overflow-x: hidden; padding: 1rem; position: fixed; resize: both; top: 0;
+	#divMenu { max-height: 100%; margin: 20px;
+		overflow-x: hidden; padding: 25px 10px 30px 10px; position: fixed; top: 0;
 		width: var( --mnu-width ); z-index: 1; transition: left 0.5s; }
-	#hamburger { cursor: pointer; font-size: 2rem; left: calc( var( --mnu-width ) - 4rem );
-		line-height: 2rem; position: fixed; top: 0; transition: left 0.5s; z-index: 10; }
+	#hamburger { cursor: pointer; font-size: 30px; left: calc( var( --mnu-width ) - 100px );
+		line-height: 30px; margin: 0; padding: 5px 15px 8px 10px; position: fixed; top: 0; transition: left 0.5s; z-index: 10; }
 
 
 	.default { background-color: white; color: #007bff; }
@@ -56,19 +58,23 @@
 /* https://www.w3schools.com/colors/colors_names.asp // use colors and borders to help identify the scope of particular elements */
 
 /*
+	html { --mnu-color: crimson; --mnu-back-color: Linen; --mnu-width:250px; height: 100%; }
 
 	body, html { font: 12pt "Trebuchet MS", helvetica, sans-serif; height: 100%; margin: 0; }
 
-	button, input[ type=button ] { background-color: #ddd; border: none; color: var( --mnu-color ); cursor: pointer; padding: 3px 20px; }
+	a { color: var( --mnu-color ); text-decoration: none; }
+	a:hover, a:focus, #hamburger:hover { background-color: yellow; color: #888; }
 
-	iframe { /*border: none; * width: 100%; }
+	button, input[ type=button ] { background-color: #ddd; border: none; color: var( --mnu-color ); cursor: pointer; padding: 3px 20px; }
+	button:hover { background-color: #ccc; color: white }
+
+	iframe { /*border: none; *//* width: 100%; }
 
 	input[ type = range ] { -webkit-appearance: none; -moz-appearance: none; background-color: #ddd; width: 100%; }
 	input[ type = range ]::-moz-range-thumb { background-color: #888; border-radius: 0; width: 10px; }
 	input[ type = range ]::-webkit-slider-thumb { -webkit-appearance: none; background-color: #888; height: 20px; width: 10px; }
 
 	td { vertical-align: top; }
-
 */
 
 </style>
@@ -76,6 +82,7 @@
 </head>
 <body>
 <script src=https://cdn.rawgit.com/showdownjs/showdown/1.8.6/dist/showdown.min.js ></script>
+
 
 	<div id = "divMenu" title="The 10 steps to success" class="jumbotron" >
 
@@ -97,7 +104,7 @@
 
 		<div id= "divFooter" >
 
-				<select id=selTheme onchange=updateCss(this.value); class="form-control" >
+			<select id=selTheme onchange=updateCss(this); class="form-control" >
 				<option class=default >Default</option>
 				<option class=cerulean >Cerulean</option>
 				<option class=cosmo >Cosmo</option>
@@ -148,16 +155,13 @@
 
 	</div>
 
-	<button id = "hamburger" class = "btn btn-primary" onclick=toggleNav(); > slide &#9776;  </button>
+	<div id = "hamburger" onclick=toggleNav(); class="btn btn-primary" > slide &#9776;  </div>
 
 <script>
 // https://github.com/showdownjs/showdown << check for latest rev from time to time
 // jshint esversion: 6
 
 const url = 'https://launchandlearn.github.io/launch-and-learn-by-andranik-okroyan.html';
-
-let themeName = localStorage.getItem( 'themeName' ) || 'Cerulean';
-selTheme.value = themeName;
 
 let xDown = null;
 let yDown = null;
@@ -172,7 +176,9 @@ init();
 
 function init() {
 
-	updateCss( themeName );
+	const themeName = localStorage.getItem( 'themeName' ) || 'Cerulean';
+	selTheme.value = themeName ? themeName : 'Cerulean' ;
+	css.href = "https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/" + themeName.toLowerCase() + "/bootstrap.min.css"
 
 	divTitle.innerHTML =
 		`
@@ -196,14 +202,14 @@ function init() {
 
 
 
-function updateCss( value ) {
+function updateCss( that ) {
 
-	css.href = value === 'Default' ? 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css' :
-		`https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/${ value.toLowerCase() }/bootstrap.min.css`;
-
-	localStorage.setItem( 'themeName', value );
+	css.href = that.value === 'Default' ? "https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css" :
+		"https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/" + that.value.toLowerCase() + "/bootstrap.min.css"
+	localStorage.setItem( 'themeName', that.value );
 
 }
+
 
 
 
@@ -221,11 +227,11 @@ function onHashChange() {
 		divContents.style.maxWidth = '100%';
 		document.body.style.overflow = 'hidden';
 
-		divContents.innerHTML = `<iframe src=${ url } height=100% width=100% ></iframe>`;
+		divContents.innerHTML = '<iframe src=' + url + ' height=100% width=100% ></iframe>';
 
 	} else if ( ulc.endsWith( '.gif' ) || ulc.endsWith( '.png' ) || ulc.endsWith( '.jpg' ) || ulc.endsWith( '.svg' )) {
 
-		divContents.innerHTML = `<img src=${ url } >`;
+		divContents.innerHTML = '<img src=' + urlGitHubPage + url + ' >';
 
 	} else {
 
@@ -257,7 +263,7 @@ function callbackToTextarea( xhr ){
 
 	const response = xhr.target.response;
 
-	divContents.innerHTML = `<textarea style=height:100%;width:100%; >${ response }</textarea>`;
+	divContents.innerHTML = '<textarea style=height:100%;width:100%; >' + response + '</textarea>';
 
 }
 
@@ -277,13 +283,13 @@ function requestFile( url, callback ) {
 
 
 
+
 function onTouchStart( event ) {
 
 	xDown = event.touches[ 0 ].clientX;
 	yDown = event.touches[ 0 ].clientY;
 
 }
-
 
 
 function onTouchMove(event) {
@@ -352,7 +358,6 @@ function fetchText( url, target ){
 }
 
 
-
 function parseText( text, target ) {
 
 	const parser = new DOMParser();
@@ -365,7 +370,7 @@ function parseText( text, target ) {
 	titles = Array.from( doc.getElementsByTagName("h1") ).filter( item => item.id );
 	items = titles.map( item => [item.id, item.firstChild.innerHTML ] );
 
-	let txt = '';
+	let txt = ''
 
 	for ( item of items ) {
 
@@ -427,30 +432,6 @@ function fetchMenuR2() {
 
 
 function toggleNav() {
-
-	const width = getComputedStyle(document.documentElement).getPropertyValue( '--mnu-width' ).trim();
-
-	if ( !divMenu.style.width || divMenu.style.width === width ) {
-
-		divMenu.style.width = '0';
-		divMenu.style.padding = '0';
-		hamburger.style.left = '-75px';
-		divContainer.style.marginLeft = '0';
-
-	} else {
-
-		divMenu.style.width = width;
-		//divMenu.style.padding = '30px 10px 0 10px';
-		divMenu.style.padding = '1rem';
-		hamburger.style.left = 'calc( var( --mnu-width ) - 4rem )';
-		divContainer.style.marginLeft = width;
-
-	}
-
-}
-
-
-function xxtoggleNav() {
 
 	const left = 'calc( var( --mnu-width ) - 4rem )';
 

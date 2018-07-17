@@ -1,7 +1,9 @@
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html "View file as a web page." ) </span>
 
-<div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io'";
+<div><input type=button class = 'btn btn-secondary btn-sm' onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io'";
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+
+<br>
 
 # [_Launch and Learn_ Read Me]( #README.md )
 
@@ -38,6 +40,12 @@ Use the 'View online' item in the left to read this book online or click the fol
 
 
 ### Change Log
+
+
+#### 2018-07-16
+
+* Fixing style sheet for mobile
+* Add button class to read me
 
 #### 2018-07-15
 

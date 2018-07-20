@@ -207,6 +207,31 @@ function updateCss( value ) {
 
 
 
+function toggleNav() {
+
+	const width = getComputedStyle(document.documentElement).getPropertyValue( '--mnu-width' ).trim();
+
+	if ( !divMenu.style.width || divMenu.style.width === width ) {
+
+		divMenu.style.width = '0';
+		divMenu.style.padding = '0';
+		hamburger.style.left = '-75px';
+		divContainer.style.marginLeft = '0';
+
+	} else {
+
+		divMenu.style.width = width;
+		//divMenu.style.padding = '30px 10px 0 10px';
+		divMenu.style.padding = '1rem';
+		hamburger.style.left = 'calc( var( --mnu-width ) - 4rem )';
+		divContainer.style.marginLeft = width;
+
+	}
+
+}
+
+
+
 function onHashChange() {
 
 	const url = !location.hash ? uriDefaultFile : location.hash.slice( 1 );
@@ -339,6 +364,10 @@ function onTouchMove(event) {
 
 
 
+
+////////// L&L
+
+
 function fetchText( url, target ){
 
 	//console.log(url );
@@ -382,8 +411,6 @@ function parseText( text, target ) {
 	divMenuItems.innerHTML = txt + '<hr>';
 
 
-
-
 	let element = document.getElementById( 'h.gjdgxs' ); // jump to dedication
 	element.scrollIntoView( true );
 
@@ -397,6 +424,7 @@ function setView( item) {
 	elmnt.scrollIntoView( true );
 
 }
+
 
 
 function fetchMenuR2() {
@@ -426,49 +454,7 @@ function fetchMenuR2() {
 }
 
 
-function toggleNav() {
 
-	const width = getComputedStyle(document.documentElement).getPropertyValue( '--mnu-width' ).trim();
-
-	if ( !divMenu.style.width || divMenu.style.width === width ) {
-
-		divMenu.style.width = '0';
-		divMenu.style.padding = '0';
-		hamburger.style.left = '-75px';
-		divContainer.style.marginLeft = '0';
-
-	} else {
-
-		divMenu.style.width = width;
-		//divMenu.style.padding = '30px 10px 0 10px';
-		divMenu.style.padding = '1rem';
-		hamburger.style.left = 'calc( var( --mnu-width ) - 4rem )';
-		divContainer.style.marginLeft = width;
-
-	}
-
-}
-
-
-function xxtoggleNav() {
-
-	const left = 'calc( var( --mnu-width ) - 4rem )';
-
-	if ( hamburger.style.left === '' || hamburger.style.left === left ) {
-
-		divMenu.style.left = 'calc( -1 * var( --mnu-width ) - 2rem )';
-		hamburger.style.left = '-5.3rem';
-		divContainer.style.marginLeft = '0';
-
-	} else {
-
-		divMenu.style.left = 0;
-		hamburger.style.left = left;
-		divContainer.style.marginLeft = left;
-
-	}
-
-}
 
 </script>
 </body>

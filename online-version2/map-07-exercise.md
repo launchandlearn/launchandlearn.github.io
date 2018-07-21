@@ -14,14 +14,14 @@ As regard the previous activities when you were in fasted state, you will burn c
 
 As for me, I don't train, what I do simply is, elevate my growth hormones, change my epigenetic response and create a new genetic structure that dominates the other ones.
 
-Why train at home?
+### Why train at home?
 
 This has been a question a whole lot of people raise in debate. Whichever way, your home or not. If it is your comfort zone and you are at liberty to put anything up when and how you want it so you can do a session without distraction
 
 You save so much time when you train at home especially when it is set as a morning routine. The idea of going to the gym and changing up takes so much time than when you are just at home.
 
 
-My foundation of all - the kettlebell swing
+### My foundation of all - the kettlebell swing
 
 Pushing the limit on the kettlebell swing! So I go nuts if I do the exercises by pushing myself to the limits in a messed manner! I go all in for a short period. So I had to stop as I was getting super tired of it! While I was looking for a solution that could fix that case as I was in the gym for way too long, scaring people. I go to find out that one of the solutions was to find a full body exercise that will do cardio and strength at the same time and will develop the posterior chain and essentially a chain of muscles that is responsible for posture. All the muscles and joints that are responsible for mobility are being exercised to build myself and make sure that with age, I am more mobile and able to do more without my aging my body causing a setback. With that, I developed rituals and have set in stone that will help the body to do what it needs to do no matter how old I am as I keep my mobile capacity elevated.
 
@@ -29,15 +29,15 @@ When you look at the tree, what do you see? The branches, the leaves and main fo
 
 I’ll tell you, you don't have to do many changes in the movement of it as the progression is straightforward and simple. It's called kettlebell swing. Yep!!! Give a kettlebell swing a try if you are bored of switching the machines.
 
-Why?
+### Why?
 
 Now, why kettlebell swings?
 
 1. Burns more calories than anything out there.
 
- 2. Easy progression, just do more swings in one set or use a heavier kettlebell
+2. Easy progression, just do more swings in one set or use a heavier kettlebell
 
- 3. Whole body movement; trains the whole body.
+3. Whole body movement; trains the whole body.
 
 4. Develops joints, and strengthening your back.
 
@@ -49,9 +49,9 @@ Now, why kettlebell swings?
 
 9. It is a HIIT exercise
 
- 10. It develops core joints for martial arts and powerlifting
+10. It develops core joints for martial arts and powerlifting
 
- 11. It makes your booty workout.
+11. It makes your booty workout.
 
 Here are the benefits of the kettlebell swings benefits, well, read them again. Ha-ha!!
 
@@ -95,15 +95,17 @@ Improved mood;  this applies to every workout really but this one I believe work
 
 Improved looks spill on other aspects of life; this will sound arrogant but when you feel attractive you like what you see in the mirror in the morning and people get your vibe and give you opportunities because of it. It sound strange but it kind of works as snowball effect.
 
-How?
+
+### How?
 
 Did someone just ask me how to go about it? Make sure both legs are parallel, stomach tight, back straight and swing it like you mean it! But to be serious, lifting kettlebell requires practice, so to do it properly. I recommend a professional to take a look at you when you do it once you set your technique right and then you can practice that for a period. I do recommend finding videos how to do it as they will show more than text as this is very visual.
 
-How to select the starting weight?
+
+### How to select the starting weight?
 
 How do we select a starting weight with this idea? Selecting the weight of 8kg for females and 16kg for males is not engaging and challenging enough as I've started with 16kg and progressed now to 40kg. The idea is to select a weight that you can do 20-100 swings in one set and do it in 3-5 sets to get a total of 60-500reps in one go. And the larger quantity of reps you do and the more you focus on cardio, the fewer reps you do overall, the more you focus on strength. When you are capable of doing more than 75 swings in one set with a kettlebell, do select a bigger weight in my opinion as it can get a bit boring. I want you to enjoy it with full bum power. I know I sound corny here, but you will get better at it, and you know what I mean! You can do a bit of stretch after like forward bend and backward one to make sure you help loosen up the muscles.
 
-Tips
+### Tips
 
 Try it barefoot or shoes that have very thin cushion so it’s grounded.
 
@@ -113,8 +115,8 @@ Build training load.
 
 When you finish your set do some light activity if your heart rate is elevated.
 
-Stretch often after or before.
 
+### Stretch often after or before
 
 Ok, so there was an accidental experiment! I was doing intermittent fasting to the extreme, and I took a kettlebell and started swinging with such ease that was even confusing for me, and the maximum amount of reps went on 20% more than usual! So I was thinking well if you are mainly low on glycogen than what’s going on! Some digging and this comes up! So there were some studies on the time people can spend underwater! When a person in a ketogenic state the time nearly doubled, and with the kettlebell, the situation is that it’s one of the activities that if you do it right, you will have barely any air in you! Now here is the correlation, if you are in the ketogenic state you will produce something which will essentially make you use fat as kind of replacement of and that will use less oxygen in some way.
 
@@ -122,14 +124,14 @@ What to do in a break? The toughest option is pull-ups on rings and dips on ring
 
 Take it easy to push the level and progress off your limit. The idea behind it is that you develop the body and push the limit of the body. Good tip will be use battle ropes to help with warming up the wrist as well so you can do the movement to warm up. Select a light kettle bell to do the movement at start and progress! The idea behind it is to make sure you take 20-40 Total reps in one go! Then when you go with the battle rope go hard for a minute! Then do push-ups and repeat! Doing that three times will count to around 10 minutes!
 
-The ideal number of sets
+### The ideal number of sets
 
 18 sets for each muscle group per week is something that will be awesome. When you do a compound movement that essentially utilizes more muscles than the same recipe applies.
 
 The ideal is, train 3-4 times a week with 6 sets for each session as muscle protein synthesis takes around 48-72 hours and the muscle will be recovered.
 
 
-The magic 300 swings a day
+### The magic 300 swings a day
 
 The Beauty of doing 300 swings is that it’s not too much and it’s not too little. Once you get accustomed to the weight, you will be able to do 70-100 swings in one set, and then you can move to a heavier weight depending on if you want to build muscle or not I would always recommend going heavier as you become so much stronger.
 
@@ -147,7 +149,7 @@ Also, constant push on your cardiovascular system will tell your body what you n
 
 
 
-Cardio HIIT
+### Cardio HIIT
 
 Now we will discuss in the full details that the body is the expression of yourself, and to get the most expression out of exercise; you have to select the one that does the most gene expression. The one that does that is HIIT training. The research did a measure of around 7000 epigenetic markers, and HIIT activates more than any other exercise of them. Now the kettlebell swing is HIIT training as if you do 20 swings and rest for a minute or two, and then do that five times, that places it in this category, but if you know how to do the HIIT, then you are sorted wherever you are. So if you want to be fitter, stronger and more intelligent babies then do this as an epigenetic pass to the future generations as well.
 
@@ -181,7 +183,8 @@ Also, if you are focusing on the upper body for strength, you can concentrate on
 
 “If you are looking at how the hormonal changes happen in the body, I bet you will love it as the body creates high growth hormone”.
 
-Fasted training.
+
+### Fasted training.
 
 Doing workout few hours before your breakfast in the morning is the way to go. Fasting will best produce visible results when you work out in the morning. Working out in the morning encourages Lipolysis - the breakdown of fats by hydrolysis to release fatty acids and that give you energy. It's important that you eat well otherwise you will lose essential muscles if you work out without food.
 
@@ -195,7 +198,7 @@ Another thing that happens to your body when you fast is that the AMP kinase see
 
 Also, when you engage in weight training, you increase lactic acid and that stimulates growth hormone. As such, kettle bell is a great exercise to do during fasting.
 
-For longevity.
+### For longevity.
 
 Trust me, a lot of walking is effective for longevity. VO2 max is important, and this essentially shows how strong your lungs are. The stronger the lungs, the more oxygen you get into your system when you need, the more strength you will have in future to carry out actions.
 
@@ -203,11 +206,11 @@ Do more of Kettle bell swing as it helps to increase mobility while you develop 
 
 If you are really keen on living long, you should consider eating healthy and working out.
 
-To build the muscle size
+### To build the muscle size
 
 Put your muscle under tension of 8-12 reps with 5 seconds up and 5 seconds down to make your muscle have longer period under tension 80-130 seconds usually is ideal after that it hit’s diminishing returns. To build your muscle size, what you need to do is to select the exercise that will target the muscles you want to build and then work effortlessly to reach your muscle building goals.
 
-A few tips to build muscle:
+### A few tips to build muscle:
 
 You have to load the muscle to the limit and give it a rest to recover and build. You can circulate the focus with your upper and lower body. You can do back, legs, arms, and chest, or you can do compound movement and not care, but make sure whatever you do, you do use your head.
 
@@ -217,15 +220,15 @@ Progression is the key! Because over time, you create more and more veins for th
 
 Be careful not to over-train your bones and joints as it takes long for your bones and joints to recover when you over-train them. Ensure you warm up your body first before engaging in exercise. Also, make sure to finish with compound movement so as to take care of the muscles beneath the ones you see on the outside.
 
- If your target is to build muscles, note that you have to stretch after doing upper body specifically to avoid closing up the veins on the top of the body and limit blood flow to the head.
+If your target is to build muscles, note that you have to stretch after doing upper body specifically to avoid closing up the veins on the top of the body and limit blood flow to the head.
 
 An exercise routine referred to as Colorado experiment is the type that make one marvel at the exercises that can be done within 28 minutes, 3 times per week and obtain a heavy amount of workload. There is a whole routine that you can check out and do it if you want. The Colorado experiment is mainly for muscle building though it has a lot of upsides. The experiment requires isolated machines, and if you are in the gym, it demands you to be uninterupted. It's basically a set of exercises non-stop with a mindset that you are going to target many muscles and have a lot of pain doing so. Once it's over, you will be tired, but that is essentially the way to build muscle super quick.
 
-Finishing exercise
+### Finishing exercise
 
 My personal finishing exercise routines are a rotation of between the plank and pull-ups with dips. Plank, because it's a stoic exercise to push you through the pain. Pull-ups and dips for stronger wider chest and back, which is a very compound movement and also uses a lot of muscle tissue and energy. If some muscles were forgotten in isolation exercises, then those exercises will tackle them. There are other compound exercises you can try to add, such as bench press or bar pulls.
 
-Finishing stretch
+### Finishing stretch
 
 Stretching is important as it helps to lower the level of cortisol in the body. This in turn helps to improve blood flow thereby all spine the body cells to receive more nutrients and send a positive feedback loop to the brain.
 
@@ -233,9 +236,10 @@ Finish with four basic axis stretch of the frontal bend, backward bend, left to 
 
 As you age, your muscles relax and doing the plank allows the body to have a healthier position of internal organs, less internal body fat, and better looks overall. Over time, try this pose from yoga instead of backward bend called Supta-Vajrasana.
 
-The results to measure.
 
-Which Results should you measure? For Looks, measure body fat; you can also measure your weight, but at a certain point when you gain muscle, you gain weight too, especially when you are below 15% body fat. You can check out pictures online to compare or measure using specific tools, but know that they have some errors between them and they will show different results between themselves.
+### The results to measure
+
+Which results should you measure? For Looks, measure body fat; you can also measure your weight, but at a certain point when you gain muscle, you gain weight too, especially when you are below 15% body fat. You can check out pictures online to compare or measure using specific tools, but know that they have some errors between them and they will show different results between themselves.
 
 How much is considered as a healthy body fat? The percentage is 9-11% for a man, and 15-20% for a woman. It also depends on your genetics and the activities you engage in.
 
@@ -249,11 +253,13 @@ To measure speed, measure jumping jacks in a minute, and you can do it with batt
 
 I do recommend to measure the number of swings you can do within one session.
 
-Supplements
+
+### Supplements
 
 Supplements can make your heart heavy, as such I recommend that you stick with electrolytes such as potassium and magnesium if you are low on veggies and also vitamin d3 if you live in areas with low sun exposure.
 
-When to train.
+
+### When to train.
 
 You can train anytime. Pick a specific time of the day to train and your body will adapt to the cycle and allocate the hormones at the right time for next day.
 
@@ -261,58 +267,59 @@ You can train anytime. Pick a specific time of the day to train and your body wi
 
 When it comes down to the days of exercise, it's important that you give yourself enough time to recover and for your joints and muscles to heal.
 
-Bonus tricks
 
- Time machine
+### Bonus tricks
+
+####Time machine
 
 To make the time fly super quick, you can do this. Listen to the same song, and that will set you into a zone so time will fly really quickly.
 
- Accountability
+#### Accountability
 
 To keep yourself accountable, get yourself a coach or an app that records your progress. Also, you can work out with a friend who will measure your performance and return the favor by doing the same.
 
- The must use of plank
+#### The must use of plank
 
 Do the handstand plank every morning and I promise that you will see noticeable results. Planking is effective for muscle development. Planking helps to develop the joints and makes them more flexible. Also, it helps to develop the back and body posture. So, I recommend that you finish your exercise routine with planks. However, laziness gets the best of us and we are unable to finish our exercise routine with planks.
 
-Stand up every hour
+#### Stand up every hour
 
 Endeavor to stand up every hour. Your blood flow decreases a lot when you sit down, especially when you sit for the whole day. The worst case scenario is sitting too much can lead to muscle atrophy.
 
-Use Rings if can
+#### Use Rings if can
 
 Use rings in the place of pull up bars. When you use rings, you will train more muscles as balancing muscles will begin to work with you.
 
-Regarding overtraining
+#### Regarding overtraining
 
 What if we had the measurement of the heart health that could have been prevented Bruce Lee from having a stroke?  What if we had all the information about him before? That way we would have ensured that he lived a little while longer delivering the best martial arts. When you train, you have to make sure you do so with recovery in mind.
 
-Martial Hunter
+#### Martial Hunter
 
 We have the body to hunt and to make sure that we survive. Training for muscles size was not really designed by nature. What I would suggest is to learn martial arts to make sure that when you need to defend yourself, you will be able to.
 
-Yoga
+#### Yoga
 
 Yoga was designed to connect you with the body and understand where the blockages are, so to use it often will help you learn more about your self.. It will help you chill out and also develop your cardiovascular system.
 
 
-Learn while training on HIIT
+#### Learn while training on HIIT
 
 It’s great to watch set of video materials to learn fromwhile doing a cardio work out. I don't recommend reading as too much movement can interfere with your training.
 
 The training will help your brain learn as you have an abundance of blood flow to hippocampus - the memory center. Also, more blood flow in the brain increases your chances of memorizing the contents you are learning.
 
-Exercise routines to do on travels
+#### Exercise routines to do on travels
 
 When I travel and don't have the kettle bell or barbell, I do pushups, sit ups and plank. Then I repeat the routine few times during the day to keep my blood circulation and metabolism going. Also, I do sit ups, jumping jacks, burpees hand stands lunges and jumping lunges. Essentially you can focus on lower body, then shift to upper body and do it all over again. Give your body enough time to rest and recover before you continue.
 
 When on travels, you can go for a run. Go and run at different places and see the city! This way you can truly explore! Preferably in the morning.
 
-Alkaline water
+#### Alkaline water
 
 If you are experiencing lactic acid, you can neutralize a lot of it with alkaline water. You have to be fasted for that period. Alkaline water helps to sooth acid reflux. Besides soothing acid reflux, alkaline water helps to neutralize acid in the blood thereby bringing about improved, improved energy and increased oxygen. Also, alkaline water has antioxidant properties, lubricates joints and muscles, cleanses the colon, and rejuvenates the skin. What's more? Alkaline water helps to reduce fatigue and body fat, support the immune system and protect bones. More importantly, alkaline water is good for optimal health.
 
-Benefits of exercise/working out
+### Benefits of exercise/working out
 
 Makes you tougher.
 

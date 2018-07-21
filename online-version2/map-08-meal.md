@@ -1,18 +1,19 @@
-MAP 8: MEAL
-What does the digestion?
+## MAP 8: MEAL
+
+### What does the digestion?
 
 We have more bacteria than human cells that aids digestion and are responsible for many bodily processes including making person happy. The bacteria’s will change in the gut through the different cultures of food you eat. Now I wouldn’t go deep to which bacteria you should cultivate in your gut. They require fiber to grow as well so make sure that your food choice is rich in fiber and healthy fats and protein. Stay away from sugary things if you want to have less inflammation. It is found that around 90% of serotonin is produced in the gut so your energy is highly dependent on what, how and when you eat. Such as Candida, Escherichia, Enterococcus, Streptococcus ( Happy mood and energy ) and this ones are responsible for dopamine ( the willpower )  Bacillus and Serratia so eating foods that will cultivate them is definitely something I will recommend and even some probiotics have anti depressant and anti anxiety effects. You can also loose weight with probiotics or gain depending on how much body fat % person has who gave the probiotics and who received it. The idea that neurotransmitters are rewarding you if you do something right or you are going towards the direction that nourishes the body and the mind.
 
-Personal fat loss journey.
+### Personal fat loss journey.
 
 A short while ago, I was super fat. With nearly 100 pounds needed to be shed from my body. Again I permitted it to happen to me. I allowed the external world to influence my dopamine production system whereas the rewards were not as important as I thought. I was eating too much for no cause other than self-fulfillment. I wasn't thinking with my head. And instead of owning up to my excessive eating habits and dealing with it, I made it a part of me and lived with it, so I had to figure out more optimum solution for it.
 
 
-Fat VS. Sugar and ketogenic case
+### Fat VS. Sugar and ketogenic case
 
 Sugar and everything sugary makes you fat and dependent on it. One can of soda a day gives you 15 pounds of fat by the end of a year. Now, many sugar-free or sugary drinks contains salt and when you drink them, they make you thirsty and have urge to drink more. Guess what? Juice is bad too because it causes insulin spikes. Also, juice doesn't have fiber that helps to slow down digestion.
 
- Now one big thing that is hidden from us is fructose, which is a poison when consumed in excess. Fructose is evil in its roots, and it's nearly everywhere, even in bread. It acts like alcohol to the body, but just feels different to the brain because the brain doesn't feel its effect.  So make sure you eat healthy.
+Now one big thing that is hidden from us is fructose, which is a poison when consumed in excess. Fructose is evil in its roots, and it's nearly everywhere, even in bread. It acts like alcohol to the body, but just feels different to the brain because the brain doesn't feel its effect.  So make sure you eat healthy.
 
 So eating good fats will make you calmer throughout the day and will also ensure that you do not have a spike of hunger when you are hungry. Good fat also helps to monitor your weight and makes you calmer throughout the day like omega’s 3 and 6.
 
@@ -21,7 +22,7 @@ What happens to the body when you eat sugar? The sugar in your food makes you si
 Inflammation when triggered chronically creates the state of alert in the body and that stresses you out as a human being. Chronic inflammation is one of the health problems that arises when you eat sugar.
 
 
-Alkalizing VS. Acid situation
+### Alkalizing VS. Acid situation
 
 What happens when you touch acid? Can you dare touch it with your bare hands? So why do you eat acidic foods?
 
@@ -31,23 +32,23 @@ Food substances that do not create oxidative stress are advisable as they rid yo
 
 Are you suffering from depression? Increase the alkalinity in your brain and watch your depression go away. Consuming alkaline foods increases the electricity in the brain and as I mentioned earlier, your brain needs electricity to function well.
 
-Fill yourself with good stuff.
+### Fill yourself with good stuff.
 
 The foods you eat will either kill or heal you. You don't really need to go too deep, the basic stuff you need is amino acids to rebuild your body and eating great food constituents contribute to that.  Now, the tradeoff is simple, amino acids are acidic, and therefore must be balanced out with greens to alkaline the body. So, get some salads with your protein-rich meal.
 
 Consider detoxing your body as it will help to increase the production of melatonin and serotonin in your brain. The food imbalances that people create, creates stress and that way, your brain starts to seek pleasure from other sources. If you take care of your body, I assure you that you will be a happier person.
 
-Organic VS. Chemically grown
+### Organic VS. Chemically grown
 
 If I present you with a great clean food and add some toxins on it while you know that it has some, will you eat it?  Same happens with what we do in our diet if we eat stuffs that are inorganic in nature. Organic foods are those food substances that are grown without the use of irradiation, pesticides, drugs, synthetic fertilizers, genetic engineering and sewage sludge. Pesticides are those chemical agents or chemicals that are designed to kill weeds, fungal pests and insects that causes damage to crops. On the flip side, non-organic foods or chemically grown foods are those foods that are indirectly contaminated or directly manufactured by sewage sludge, synthetic fertilizers, irradiation, drugs or pesticides. Now, let me ask you a question: which do you think will benefit your body? Organic foods or chemically grown foods? The choice is yours.  Respect yourself and eat organic. Be the friend of your body and eat healthily!
 
-Intermittent fasting.
+### Intermittent fasting.
 
 How do you ease in into a fasted state? Simply skip breakfast or dinner. For fat loss I would recommend to skip dinner and make the feeding window shorter and shorter so in case of skipping dinner.
 
 So I've experimented a bit on this and the idea here is that you can trigger a drop of insulin that will result in fat burning. In order to do that, you have to eat food that doesn't spike insulin and generally drop the insulin so it's low throughout the day. There isn't one formula that's fits all but there is a formula that allows you to mix and match what works for you.
 
-Regarding breakfast or dinner skipping.
+### Regarding breakfast or dinner skipping.
 
 Aristotle mentioned that you eat quarter of food for yourself and the rest for your doctor. Overeating is a situation that makes you Fat, as your body doesn't get a signal that you are not eating enough, and therefore, always hungry. You also become stressful as you become insulin-dependent with spikes of insulin; therefore, it shoots cortisol.
 
@@ -62,20 +63,20 @@ Fasting will produce a growth hormone for the body, which is great when you trai
 
 In my opinion it’s easier to have dinner than breakfast as everyone are so into eating out and being social and having some food at night but it also depends on your body type. I would recommend breakfast but because I am super-duper social it’s hard to keep up with eating just breakfast when everyone on the table eats in the meetings or social gathering so there is a trick I do where I will skip breakfast and have dinner with someone.
 
-What dish should come first?
+### What dish should come first?
 
 It is ideal to eat soup first as it cleans and prepare the stomach to receive the meal. If you are not having soup, then have a salad before the main meal. Since the salad is vegetable, they will digest quicker than other foods and will also give space for heavier foods like meat or fish.
 
-Salt
+### Salt
 
 Replace the normal salt with Himalayan salt. Studies have shown that Himalayan salt is healthy.  The Pink Himalayan is really good for you as it contains tons of minerals. Also, the alkalinity of pink Himalayan salt helps to reduce inflammation in the body.
 
-Bonus trick - Kill the addiction
+### Bonus trick - Kill the addiction
 
 I had to write about it as the idea of addiction applies. When you are an addict, it's hard to reach your goals as they take away your focus. Though the world is designed to be a consumer-making world, it's important that you make yourself a spiritual being who expresses himself rather than being a consumer.  Every addiction started with pain. Pain makes your body crave for a way out and drugs do give an illusion of that. People tend to use drugs to ease addiction not knowing that drug is a habitual way out and sooner or later distraction and temporary anesthesia will set in. This leads to consequences as your decision making system is geared towards achieving a never-ending illusion that has to be ended one way or another.
 
 
-K.A.R.V.O.M.A.D. protocol
+### K.A.R.V.O.M.A.D. protocol
 
 Having talked about the importance of good food for your body and your brain, I introduce to you my diet - the K.A.R.V.O.M.A.D protocol. Though, it’s an acronym but turning yourself to this diet will make you live longer, feel healthier and have a sharper mental focus.
 
@@ -92,27 +93,25 @@ One - Eat once or twice per day.
 Exceptions - If you are at a friend’s party (not a buffet), there's no crime in saying no and looking the other way when the leftover meats are passed around. In the case where you are really hungry, fill your stomach with veggies.
 
 
-Feast meals
+### Feast meals
 
 There are feast days or feast meals. Feast days or feast meals helps to speed up your metabolism to some extent.  So go for complex carbs on those days, as too much of sugary foods might tamper with your results. Overeating is never advisable as eating too much of good stuff will turn the good stuff into bad stuff.
 
-Prolong Fasting
+### Prolong Fasting
 
 Prolong fasting promotes autophagy. Autophagy is a natural process where you the body clean itself. That is, the body cells produces membranes that hunts out worn out cells, damaged cells, and diseased cell, eat them up, and use the resulting molecules to generate new cells parts or energy. Think of autophagy as the body carrying out a recycling program. The natural process of autophagy simply makes the body efficient machines that rids us of faulty parts, hinder cancerous growths and metabolic dysfunction like diabetes or obesity. To induce autophagy, there is a need for you to place your body in a state of discomfort. Fasting is the best approach. While the body may not love or accept fasting immediately, it ultimately benefits from it. As a matter of fact, studies has shown that there are a lot of health benefits associated with occasional fasting such as lower risks of heart disease and diabetes So, it's safe to say that fasting is an effective way to reduce the risk of formation of neuro degenerative diseases like Parkinson's or Alzheimer's. Also, studies have shown that prolong fasting helps to improve cognitive function, neuroplasticity, and brain structure thereby helping the brain to learn easily.
 
-Water fast
+### Water fast
 
 Water fast is when you have water in the equation. That is, you are fasting but you are drinking water.  This you can definitely do more than dry fast. Water fast is a period when a person drinks only water without eating food. Water fast helps with weight loss. While people undertake water fast to lose weight, for religious or spiritual reasons, studies have shown that occasional fasting helps with weight loss. To ensure that water fast is done safely and without risk, it's advisable that you undertake water fast when your body can't go without food and doesn't require too much energy. Medically, there's no set time for water fast but experts advice that water fast shouldn't last more than 72 hours. Water fast is now becoming popular in wellness and natural health movements as well as meditation.
 
 Here are some of the benefits of water fast.
 
-Weight loss
+* Weight loss
+* Lowers cholesterol
+* Reduces risk of developing high blood pressure, heart disease, and diabetes.
 
-Lowers cholesterol
-
-Reduces risk of developing high blood pressure, heart disease, and diabetes.
-
-Recipes and eating protocol
+### Recipes and eating protocol
 
 Start with soup to clean and prepare your stomach, then have a salad.
 
@@ -128,7 +127,7 @@ Supplements Spiralina and Chlorella tablets.
 
 Now, to my crazy healthy Ketogenic shake that considers a variety of tradeoffs for the majority of people on this planet. You can play with the portions and ingredients, as different people will require different measures for their size and their goals, but you can keep this foundation.
 
- The ingredients are as follows:
+The ingredients are as follows:
 
 10-15 grams wheatgrass in the form of preference,
 
@@ -168,7 +167,7 @@ Powders to have that are useful.
 
 To conclude, you are what you do, but what you do is dependent on what you eat, how much you eat, and when you eat.
 
-What to finish with:
+## What to finish with:
 
 Finish with Grapefruit, oranges or apple cider vinegar to aid digestion. I already talked about the numerous health benefits of apple cider vinegar.
 
@@ -176,13 +175,13 @@ Exercise time between meals.
 
 Also with exercises, give some time to digest the meal, at least 45 minutes before and after workout.
 
-Bonus trick
+### Bonus trick
 
-Kill the addiction
+#### Kill the addiction
 
 If you want to lower addiction of specific things, such as pizza, specific sweets or whatever, try this: Picture the food you want and now imagine yourself feeling sick after eating it. Imagine the food all dirty and full of things that you hate; increase and intensify the disgusting feeling until the craving stops. Now, imagine the scale of the craving. You'd observe that it has reduced.
 
-Food and drinks to have to burn fat.
+#### Food and drinks to have to burn fat.
 
 Foods and drinks to eat to burn fat quick.
 
@@ -201,7 +200,7 @@ Foods and drinks to eat to burn fat quick.
 Before eating a meal, try the Japanese method of saying 80% full. That is, tell yourself you have to eat till you are 80% full. Doing this reduces inflammation in your body and also helps to increase longevity.
 
 
-Protein
+### Protein
 
 If you are looking to build muscle mass, you should consider eating more protein because carbs alone do not have the building blocks to build muscles. There are several beliefs and assumptions about the consumption of protein, let's talk about it.
 
@@ -211,7 +210,7 @@ Of course, if you eat an extreme amount of protein that will make you bloated, y
 
 Try to eat complete proteins and also with building muscles you require growth hormones and Insulin to make sure that the muscles are created.
 
-Benefits Karvomad
+### Benefits Karvomad
 
 Higher growth hormone count.
 
@@ -227,6 +226,6 @@ Less insulin dependency - higher self-control.
 
 Weight loss.
 
- Higher creativity.
+Higher creativity.
 
 When you eat sugar, you age quicker. You increase your insulin, and that decreases your growth hormone.

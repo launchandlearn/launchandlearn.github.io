@@ -1,7 +1,6 @@
 
 ## Conclusion
 
-
 You've learned the Eleven Steps to Success, **now design your life and evolve it**. What I want you to do is to design your life the way you want to live. Think of this steps as building blocks for your habits. It’s important to have time to yourself, and those steps are designed to make sure you give to your mind and body a lot of value.
 
 Plan the steps to get there and become strong, so you can do what you want at any time. Nothing in this world comes to anyone instantly; you have to work for it, and you have to live truly and you will self-correct through your emotions. Just make sure you think, work hard, and recover fast. Use every part of your brain before making a decision and think long-term, and you will get there.

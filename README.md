@@ -42,6 +42,12 @@ Use the 'View online' item in the left to read this book online or click the fol
 ### Change Log
 
 
+#### 2018-07-20
+
+* Added more themes
+* Code cleanup
+
+
 #### 2018-07-16
 
 * Fixing style sheet for mobile

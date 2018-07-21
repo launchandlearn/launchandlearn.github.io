@@ -53,6 +53,7 @@
 	.united { background-color: white; color: #E95420; }
 	.yeti { background-color: white; color: #008cba; }
 
+/* https://www.w3schools.com/colors/colors_names.asp // use colors and borders to help identify the scope of particular elements */
 
 /*
 
@@ -60,7 +61,7 @@
 
 	button, input[ type=button ] { background-color: #ddd; border: none; color: var( --mnu-color ); cursor: pointer; padding: 3px 20px; }
 
-	iframe { border: none; width: 100%; }
+	iframe { /*border: none; * width: 100%; }
 
 	input[ type = range ] { -webkit-appearance: none; -moz-appearance: none; background-color: #ddd; width: 100%; }
 	input[ type = range ]::-moz-range-thumb { background-color: #888; border-radius: 0; width: 10px; }
@@ -71,7 +72,7 @@
 */
 
 </style>
-<link id=css rel="stylesheet" href="" type="text/css" >
+<link id=css rel="stylesheet" type="text/css" >
 </head>
 <body>
 <script src=https://cdn.rawgit.com/showdownjs/showdown/1.8.6/dist/showdown.min.js ></script>
@@ -96,46 +97,31 @@
 
 		<div id= "divFooter" >
 
-			<p>
 				<select id=selTheme onchange=updateCss(this.value); class="form-control" >
-					<optgroup label="Bootswatch Themes">
-						<option class=default value="https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css" >Default</option>
-						<option class=cerulean value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cerulean/bootstrap.min.css" >Cerulean</option>
-						<option class=cosmo value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cosmo/bootstrap.min.css" >Cosmo</option>
-						<option class=cyborg value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cyborg/bootstrap.min.css" >Cyborg</option>
-						<option class=darkly value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/darkly/bootstrap.min.css" >Darkly</option>
-						<option class=flatly value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/flatly/bootstrap.min.css" >Flatly</option>
-						<option class=journal value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/journal/bootstrap.min.css" >Journal</option>
-						<option class=litera value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/litera/bootstrap.min.css" >Litera</option>
-						<option class=lumen value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/lumen/bootstrap.min.css" >Lumen</option>
-						<option class=lux value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/lux/bootstrap.min.css" >Lux</option>
-						<option class=meteria value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/materia/bootstrap.min.css" >Materia</option>
-						<option class=minty value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/minty/bootstrap.min.css" >Minty</option>
-						<option class=pulse value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/pulse/bootstrap.min.css" >Pulse</option>
-						<option class=sandstone value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/sandstone/bootstrap.min.css" >Sandstone</option>
-						<option class=simplex value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/simplex/bootstrap.min.css" >Simplex</option>
-						<option class=sketchy value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/sketchy/bootstrap.min.css" >Sketchy</option>
-						<option class=slat value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/slate/bootstrap.min.css"e >Slate</option>
-						<option class=solar value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/solar/bootstrap.min.css" >Solar</option>
-						<option class=spacelab value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/spacelab/bootstrap.min.css" >Spacelab</option>
-						<option class=superhero value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/superhero/bootstrap.min.css" >Superhero</option>
-						<option class=united value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/united/bootstrap.min.css" >United</option>
-						<option class=yeti value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/yeti/bootstrap.min.css" >Yeti</option>
-					</optgroup>
-					<optgroup label="Themes from other sources">
-						<option class=material-kit value="https://demos.creative-tim.com/material-kit/assets/css/material-kit.min.css" >Material Kit</option>
-						<option class="initio" value="https://www.gettemplate.com/demo/initio/assets/css/styles.css" >Initio</option>
-						<option class="creative" value="https://blackrockdigital.github.io/startbootstrap-creative/css/creative.min.css" >Creative</option>
-						<option class="cardio" value="https://tympanus.net/Freebies/Cardio/css/cardio.css" >Cardio</option>
-						<option class="magister" value="https://www.gettemplate.com/demo/magister/assets/css/magister.css" >Magister</option>
+				<option class=default >Default</option>
+				<option class=cerulean >Cerulean</option>
+				<option class=cosmo >Cosmo</option>
+				<option class=cyborg >Cyborg</option>
+				<option class=darkly >Darkly</option>
+				<option class=flatly >Flatly</option>
+				<option class=journal >Journal</option>
+				<option class=litera >Litera</option>
+				<option class=lumen >Lumen</option>
+				<option class=lux >Lux</option>
+				<option class=meteria >Materia</option>
+				<option class=minty >Minty</option>
+				<option class=pulse >Pulse</option>
+				<option class=sandstone >Sandstone</option>
+				<option class=simplex >Simplex</option>
+				<option class=sketchy >Sketchy</option>
+				<option class=slate >Slate</option>
+				<option class=solar >Solar</option>
+				<option class=spacelab >Spacelab</option>
+				<option class=superhero >Superhero</option>
+				<option class=united >United</option>
+				<option class=yeti >Yeti</option>
+			</select>
 
-						<!--
-							<option class="" value="" ></option>
-						-->
-
-					</optgroup>
-				</select>
-			</p>
 
 			<div><a href=#LICENSE.md >License</a></div>
 			<div><a href=#developer-notes.md >dev notes</a></div>
@@ -165,24 +151,20 @@
 	<button id = "hamburger" class = "btn btn-primary" onclick=toggleNav(); > slide &#9776;  </button>
 
 <script>
-
-// https://github.com/showdownjs/showdown << check for latest rev from time to time 1.8.6 2018-07-02
+// https://github.com/showdownjs/showdown << check for latest rev from time to time
 // jshint esversion: 6
 
 const url = 'https://launchandlearn.github.io/launch-and-learn-by-andranik-okroyan.html';
-//	let defaultFile = 'index.html';
-//	location.hash = '../README.md';
-const uriDefaultFile = 'README.md';
 
-
-const themeName = localStorage.getItem( 'themeName' ) || 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css';
-selTheme.value = themeName ;
+let themeName = localStorage.getItem( 'themeName' ) || 'Cerulean';
+selTheme.value = themeName;
 
 let xDown = null;
 let yDown = null;
 
-const txt = 'lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?';
-
+//	let defaultFile = 'index.html';
+//	location.hash = '../README.md';
+let uriDefaultFile = 'README.md';
 
 
 init();
@@ -203,7 +185,6 @@ function init() {
 		<p>${ document.head.querySelector( '[name=description]' ).content }</p>
 		`;
 
-	// Swipe events
 	document.addEventListener( 'touchstart', onTouchStart, false );
 	document.addEventListener( 'touchmove', onTouchMove, false );
 
@@ -217,8 +198,35 @@ function init() {
 
 function updateCss( value ) {
 
-	css.href = value;
+	css.href = value === 'Default' ? 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css' :
+		`https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/${ value.toLowerCase() }/bootstrap.min.css`;
+
 	localStorage.setItem( 'themeName', value );
+
+}
+
+
+
+function toggleNav() {
+
+	const width = getComputedStyle(document.documentElement).getPropertyValue( '--mnu-width' ).trim();
+
+	if ( !divMenu.style.width || divMenu.style.width === width ) {
+
+		divMenu.style.width = '0';
+		divMenu.style.padding = '0';
+		hamburger.style.left = '-75px';
+		divContainer.style.marginLeft = '0';
+
+	} else {
+
+		divMenu.style.width = width;
+		//divMenu.style.padding = '30px 10px 0 10px';
+		divMenu.style.padding = '1rem';
+		hamburger.style.left = 'calc( var( --mnu-width ) - 4rem )';
+		divContainer.style.marginLeft = width;
+
+	}
 
 }
 
@@ -254,20 +262,6 @@ function onHashChange() {
 
 
 
-function requestFile( url, callback ) {
-
-	const xhr = new XMLHttpRequest();
-	xhr.crossOrigin = 'anonymous';
-	xhr.open( 'GET', url, true );
-	xhr.onerror = function( xhr ) { console.log( 'error:', xhr  ); };
-	//xhr.onprogress = function( xhr ) { console.log(  'bytes loaded: ' + xhr.loaded.toLocaleString() ) }; /// or something
-	xhr.onload = callback;
-	xhr.send( null );
-
-}
-
-
-
 function callbackMarkdown( xhr ){
 
 	showdown.setFlavor('github');
@@ -289,6 +283,20 @@ function callbackToTextarea( xhr ){
 	const response = xhr.target.response;
 
 	divContents.innerHTML = `<textarea style=height:100%;width:100%; >${ response }</textarea>`;
+
+}
+
+
+
+function requestFile( url, callback ) {
+
+	const xhr = new XMLHttpRequest();
+	xhr.crossOrigin = 'anonymous';
+	xhr.open( 'GET', url, true );
+	xhr.onerror = function( xhr ) { console.log( 'error:', xhr  ); };
+	//		xhr.onprogress = function( xhr ) { console.log(  'bytes loaded: ' + xhr.loaded.toLocaleString() ) }; /// or something
+	xhr.onload = callback;
+	xhr.send( null );
 
 }
 
@@ -351,30 +359,6 @@ function onTouchMove(event) {
 
 	xDown = null;
 	yDown = null;
-
-}
-
-
-function toggleNav() {
-
-	const width = getComputedStyle(document.documentElement).getPropertyValue( '--mnu-width' ).trim();
-
-	if ( !divMenu.style.width || divMenu.style.width === width ) {
-
-		divMenu.style.width = '0';
-		divMenu.style.padding = '0';
-		hamburger.style.left = '-75px';
-		divContainer.style.marginLeft = '0';
-
-	} else {
-
-		divMenu.style.width = width;
-		//divMenu.style.padding = '30px 10px 0 10px';
-		divMenu.style.padding = '1rem';
-		hamburger.style.left = 'calc( var( --mnu-width ) - 4rem )';
-		divContainer.style.marginLeft = width;
-
-	}
 
 }
 
@@ -456,7 +440,7 @@ function fetchMenuR2() {
 	<p><a href=#online-version2/map-02-make-the-bed.md >Map 2: Make the Bed</p>
 	<p><a href=#online-version2/map-03-cold-environment.md >Map 3: Cold Environment</p>
 	<p><a href=#online-version2/map-04-power-of-liquid.md >Map 4: The Power of Liquid</p>
-	<p><a href=#online-version2/map-05-journal-meditation.md >Map 5: Journal Meditation</p>
+	<p><a href=#online-version2/map-05-journal-meditation.md >Map 5: Jornal Meditation</p>
 	<p><a href=#online-version2/map-06-creative-critique-and-artist-within.md >Map 6: Creative Critique and Artist Within</p>
 	<p><a href=#online-version2/map-07-exercise.md >Map 7: Exercise</p>
 	<p><a href=#online-version2/map-08-meal.md >Map 8: Meal</p>

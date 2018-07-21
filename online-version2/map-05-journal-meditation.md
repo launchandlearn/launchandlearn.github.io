@@ -1,4 +1,5 @@
-MAP 5: JOURNAL MEDITATION
+## MAP 5: JOURNAL MEDITATION
+
 The story of life: Wake up, prepare an amazing breakfast comprising of lots of pancakes for yourself. You sit down to eat and while eating, you check the time only to realize that you have to stop your meal immediately otherwise you'd be late for your 9am appointment. Then, you dash out of the house. Some minutes later, your wife wakes up to find the kitchen dirty and the dishes unwashed. She's angry and she thinks of you as an asshole who can't seem to look after himself. When you return home in the evening, your wife in her elevated brain state calls you a moron. What do you do? You do one of two things. It's either you snap at her or you say something that make her appeal towards you. Emotions and brainwaves are a tad related. Your brain spikes when you overheat it. So, there is a need for you to pause and give your brain time to process when you are in difficult situations.
 
 Want to know why I placed Journaling, planning and meditation in one map? That's because they are all related. If you observe philosophies like Buddhism of the West, otherwise known as stoicism, you'll find that there are many ways to achieve the same thing and in this case, self-actualization works. During meditation, you slow down to observe and likewise when you journal, you slow down and observe. Both meditation and Journaling are similar but the difference is they are done in different ways. In both, you can analyze or can let go. Doing both can help you select what you want the most and what suits you the most.
@@ -7,15 +8,17 @@ In this chapter, I will teach you how to make your third eye cry. In this case, 
 
 In this chapter, we will discuss different ways of meditating, planning and Journaling as well as the science behind it to make you understand yourself better.
 
-The benefit from the previous steps
+
+### The benefit from the previous steps
 
 Previous action (cold environment) charged your brain and your body. I know it sounds simple, but the essence of the cold environment is to charge you up. Through the use of the abundance of breathing and liquid, you provide the charge for your body. The cold environment cleared your system and charged your blood, and ensured that your brain has increased its electric charge which you will have to increase further with analysis and meditation.
 
-The main differences between meditation and journaling
+### The main differences between meditation and journaling
 
 No doubts, meditation and Journaling are different and there are quite a number of things that differentiates them. I have penned down information about each one to differentiate them.
 
-Journal.
+
+### Journal
 
 The change of state comes in the journal as you are targeting your analysis and your state is of mind is realistic, but pessimistic or optimistic.
 
@@ -27,7 +30,8 @@ You can plan differently; you can observe your past and evaluate on how you are 
 
 A person who wants it all and has no plan is ignorant of what to do. A person with a purpose knows where to start. While having a plan is good, having a purpose is much better.
 
-Meditate.
+
+### Meditate
 
 The idea of doing an activity as an observer rather than a victim will make you the controller of your body and therefore, your life. The idea of controlling your information field which is essentially a mechanism that allows your internal processes to work in sync and to rewire your brain from the default mode of our ancestors to the more evolved state of analysis and control.
 
@@ -43,7 +47,8 @@ To get the best from meditation, make efforts to manage your energy and master i
 
 Just like binaural beats where you take yourself to the meditative state , meditation also requires that you train your brain to place yourself in a state of meditation and self-awareness that reduces the brain waves and changes how your body react to the environment.
 
-The big picture
+
+### The big picture
 
 There is nothing that should be considered as complex in this planet. Why? Everything you consider as complex has a multi-level structure and once you allow yourself time to digest it, you'd find that it isn't complex like you pictured. This is where meditation comes in. If you are a fan of personal growth, you should understand that everything is possible. All you need is to give yourself time, expend your energy and focus.
 
@@ -55,9 +60,10 @@ Meditation supports the brain like an information architect that reorganizes the
 
 When you meditate and visualize, you rewire your brain and that leads to the brain working more efficiently. You re-structure your internal value system and disengage emotionally on things that doesn't matter to you and connect with things that matters. Meditation helps you to visualize the things that are important to you. Meditate today!
 
-Journal types, meditation, and planning
 
-I G.O.T. love
+### Journal types, meditation, and planning
+
+#### I G.O.T. love
 
 The "I G.O.T. LOVE" journal is a daily journal with five elements - Identity (who you are), Gratitude (what you are thankful for), Objectives (Your targets and goals for a particular period), Time (the day you set down the schedule and break down into parts) and Love (sending love meditation).
 
@@ -69,7 +75,8 @@ Another journal you can use is "I'm grateful love to all". This one is a bit sim
 
 This is the simple illustration of Journaling: The brain of a hardworking mom who barely has time to sleep, and as such, her brain couldn't process any information. She has been tired for so long and now, she resolved to make a change. She decided that it's time for a change and she needs to create her life and not live subjected to her circumstances. She sits, thinks, and writes all of it on a piece of paper. And every morning when she wakes up, she reflects on what she wants and at one piece at a time, things started to come to her.
 
-Identity.
+
+### Identity.
 
 Having an understanding of who you are, while having an identity that supports your vision helps to propel your understanding of life.  Identity helps you figure out who you are in this infinite puzzle; it reminds you of who you are and the things you have accomplished.  As a trick, you can think of future accomplishment as past ones making you super certain that you worked, so you will not shake when the obstacle arises. If you say I did this, when you're actually about to, then your brain believes that you did it, and doesn't doubt it as it believes it's done. This defines the outcome and focuses on your body, and this changes the state if you say it with emotion.
 
@@ -77,7 +84,8 @@ If you want to change, there is a need for you to take your time because identit
 
 Thoughts and feeling make attitude. Attitude over a period of time creates beliefs and beliefs are in your Subconscious. Beliefs overs a period of time create a perception, and that is in the unconscious. Perception is a pure identity as you will look from the eyes that you created. The self-trust is super important. Trust in yourself and time will help you get what you want.
 
-Relationship between evolution and identity
+
+### Relationship between evolution and identity
 
 Many people try to find themselves and look through the prism of their life that they've consciously lived. If you really want to change, you have to understand two other things in you. Your instinctual; which was passed through evolution and your upbringing. Our brain, our values, and our fundamental ideas are formed when we are children. It's as people say we live half of our life until 2, the rest will be lived until 80. As kids, we were innocent and we did things without awareness and our identity was forming with our brain as we were importing the knowledge that we were gaining.
 
@@ -95,7 +103,8 @@ Also, there is a need for you to connect with your instincts and live in self-aw
 
 Self-esteem also comes into play here. Self-esteem is the reputation that you have with yourself.  Oftentimes, I see many parents bring up a case of children working hard to guarantee happiness. Children are now stuck in the race of constant satisfaction through labor and hard work instead of being happy and expressing themselves through love.
 
-The clothes you wear and how they shape your identity
+
+### The clothes you wear and how they shape your identity
 
 We all spend a little extra effort to look all glammed up for special occasions. But the truth is, we remain conflicted between dressing up and feeling guilty about wasting time out of our busy schedule to focus on clothes. Science has suggested that how we dress up in our personal and professional lives projects who we really are. Oftentimes, we hear sayings like "dress like the person you want to be and not who you are”; "dress for the job you desire and not the one you have ". However, most people do not believe in these claims though they make sure that their attires fit in into any occasion they are going to. Science has proven that the clothes we wear defines who we are, affects our attitudes, behavior, confidence, mood, personality and how we relate or interact with others. This is referred to as Enclothed Cognition. The term Enclothed cognition describes the effect that clothes have on psychological processes such as attitudes, emotions, interpersonal interactions and self-evaluations. Even so, clothes affect our mood and behavior because of the meaning the society attaches to different kinds of attire. We tend to evaluate people we are meeting for the first time based on the type of attire they have on. We consider some attires to be fun, casual, powerful and so on. We even go aboard to evaluate ourselves using what we wear at a particular time. This shows that the experience of wearing a subtle attire affects our choice of behavior and attitude.
 The idea of mastering for your identity.
@@ -103,24 +112,27 @@ There were turning moments in my life when I had to make certain decisions to ch
 
 This book helped me find myself more than anything could have, and it helped me find my identity. This book is my value system and what I can do for society to help it grow.
 
-Master your self
+
+### Master your self
 
  Mastering your state and making sure that you have control over yourself. Building your identity, ensuring that you are healthy and you live in self-awareness. Building your skill set and awareness, so you can easily identify when your body is in a state of focus or exploration, so you can go with the flow and do what your body is best at, at that moment. The healthy mind is an organized mind.
 
-Master the environment
+
+### Master the environment
 
 Learn quickly from the environment. Understand the environment and know where you can explore, develop ideas and flow when needed. Gather experiences from your environment. Learn new experiences by reading books, taking trips, trying out new foods, watching movies, studying foreign languages, acquiring new perspectives and learning new words. Stimulate your brain to develop new concepts and improve the old ones in new ways. Thus, affecting your behavior and future predictions.
 
 
-Master the fun
+### Master the fun
 
 Master the aspect of having fun. Engage in social interaction, communication, and change your philosophical value structure so you can have meaningful fun. Enjoy real and deep fun, not on the surface level fun.
 
-Master the future
+
+### Master the future
 
 For family and future generation so they will pass the knowledge to future generations. Creating a value structure and strength in individuals, so they do things that are important. Focus and commitment will help you achieve what you want. Everything here are tools, state changers, and skill builders, but you have to define your goals and what drives you.
 
-Examples
+### Examples
 
 These are some examples on how to change your identity and develop your thought pattern when you are in a journaling mode. Write these in there and feel it.
 
@@ -132,7 +144,7 @@ Example 3: I am who I am…. I am the writer of the book that helped the most pe
 
 Example 4: I am a mentor to (Z) and a father to (T). It's my job to be the best for them and to be the person that is an example for them. I am the person who will die for them if needed, and I live with the purpose to make their lives better.
 
-Gratitude
+### Gratitude
 
 Before you can make any changes to your actions, there is a need for you to change your state first. You can't expect people to achieve great things or carry out great tasks if they are not in their peak state. Hence, the reason why the next step is gratitude. This section is designed to help you achieve peak state all through the day so you can deal with any obstacles that come your way and grow with more joy and less stress. Have you noticed that when you are grateful for the things that happened in the past, your mood turns into a positive one? A positive mood helps you to focus on the moment and the things you can change. Over time, you will become so used to gratitude such that you will look forward to the experience, smile in the face of obstacles and be glad that obstacles exist because they challenge you and make you better.
 
@@ -144,7 +156,8 @@ Some examples of gratitude are as follows:
 
 I am grateful for my family. I am grateful for the love my family and friends have showed me all these years. I am grateful for the person I have around me. I am grateful for my life and how far I have come. I am grateful for the pain my friend caused me when we were kids. I am grateful for it because the pain made me realize that we need guidance. I am grateful for the friends who challenged me to become a better person. I am grateful for people who looked down on me. I am grateful for the love I send and the value I have added to people. I am grateful for my past, my future and my health.
 
-Objectives.
+
+### Objectives
 
 Goals are very important as they keep you in check and focused. Everyone wants to set goals, so should you too? But you need to understand that living too much in the future will damage your chances of testing and relaxing. As such, it's critical that you set strategic goals for the long future, say like ten years.
 
@@ -152,13 +165,15 @@ My mother instilled this phrase in me when I was a child: "A job is almost compl
 
 Also, you need to be mindful of the choices you make. Your choices will either take you towards your goal or take you away from it. You also need to understand that each choice you make will lead to another choice, so it's important that you make choices that are in accordance with your values. I argue that when you believe in something, you can achieve it as long as to take the necessary steps towards it. So, it's important that when you set out to achieve a goal, you should also believe in yourself that you can achieve it.
 
-Time.
+
+### Time
 
 Remember I talked about you having a calendar and a to-do-list? Time creates a sense of urgency to achieve all you have on your calendar and to-do-list. We all can keep ourselves busy, but in reality, it's about how much time we spend to create value. It's important that you chunk your time so you can make maximum use of it. Chunking your time shows you the actual picture of how you are managing your time. It isn't about how hard you work, but how much time you expend to get where you want. As such, it's important that you spend your time wisely.
 
 I advise that you spend the first 90 minutes of your time to focus on the important task because that's the time you have the most strength and willpower.
 
-Love
+
+### Love
 
 The most potent meditation is sending love. Having tried different types of meditation, I discovered that sending love speeds up the process of meditation and energizes you. Now, sending love to someone requires you to be in a state of peace.  This exercise will change who you are and, after a while, you will feel like someone is touching your lobe or your forehead. Don't get overhyped with third eye spirituality, as it's a neurological process, but who knows, maybe I am wrong. My assumption is that your pineal gland, which regulates circadian rhythm is the one showing itself by releasing the neurotransmitters such as serotonin and melatonin that makes the experience a visual one.
 
@@ -180,35 +195,39 @@ Sending love will teach you how to love and to love people around you even when 
 
 
 
-Regarding meditation in general
+### Regarding meditation in general
 
 The pineal gland is highly active when you are grateful and this activeness calms your body. There are different ways to meditate and I implore you to explore them all. Each person responds to the types of meditation differently, that is, the type of meditation that worked for me may not work for you. One of the important benefits of meditation is that it makes us more human. Studies have shown that the act of meditation helps to disengage the stress center of the brain. So, it's safe to say that meditation reduces stress and pain and also makes one confident. What's more? Meditation also helps to build the frontal cortex responsible for control of emotions, language and logic. Dedicating a few minutes a day to meditate is enough, remember that you are not competing with anyone. You have to learn and evolve!
 
 The crucial part of meditation is the lowering of brain waves by concentrating on the third eye or the pineal gland. This can be easily done wherever you are, be it on a plane, in a queue or on a bus. Meditation controls your emotions by lowering brain waves; and when your brain waves is lowered, you become more proactive and less impulsive. So it's safe to conclude that meditation gives you the power to control yourself.
 
-NoFap.
+
+### NoFap
 
 The idea that pleasure is stimulated and not real shouldn't appeal to a healthy person who respects him or herself. With ideas of Nofap, it comes with the same as any other neuro stimulation that will lead to a trigger from dopamine receptors that can lead to the overdose and dependency, which will lead to focusing your energy to the direction which doesn't produce anything great for yourself. If you love yourself, use your energy towards something that you want; that's why I've added it to the goals. As goals can only be achieved by a person who uses energy right. With NoFap, I don't recommend obstructing yourself from sex as I truly believe that it's a beautiful experience and should be experienced often, with a healthy mind of course.
 
-Story of No pleasure, no struggle.
+
+### Story of No pleasure, no struggle.
 
 Imagine the future where every person can have any information anytime, anywhere, and when you can do anything anywhere by just telling your artificial intelligence what you want. Imagine the future where all of that is taken away from you. Is that the future you want? Now are you ready to live? Are you
 
-Genetic approach
+### Genetic approach
 
 In order to fully develop, you have to work with your epigenetic. We are the walking genetic expressions that over time set the stone from epigenetic expression in our body to pass to our children! Being objective here is important! The body wants to express its genes and you are a walking expression of your genes and that's how you should see yourself. Your decision that was made on your state, value system and awareness made you do something and that gave a signal for that gene to trigger. Now if you develop the lifestyle that triggers the genes, you will also need to develop the lifestyle you want and for that you will need to understand what you need to do to become who you want. Gene expression is like a biological value system and have a deep awareness of yourself as a piece of the puzzle of this infinite world. Make sure you control your state by creating the rituals that resonate with you. It's possible that all the stuff that I've mentioned here are not relevant; possibly they are but being aware of your state is effective as you have the power to control it and change at your own will and not on stimuli you have on the outside. You will only start seeing results in life when you learn to control yourself. For self-awareness, all you need to do is to create rituals that trains your awareness and one of the ritual is meditation. Meditation quickens the area of the brain that can think about itself and makes it more prevalent than other parts of the brain.
 
-Bonus tips and tricks
+### Bonus tips and tricks
 
- Breaking down the goal, plan and the map
+#### Breaking down the goal, plan and the map
 
 While some set 10 years to achieve their goals, others set daily or weekly goals. Regardless of the time you set to achieve your goals, you need to be aware of the map and the plan if you are keen on achieving on goals. Both plan and map are important as they put your focus on the goals at hand, remember, plans can be overwritten by the constant changes in the environment. One of the issues that arises when it comes to setting goal is keeping them at a high level. We all desire to accomplish great things in life, but if we do not break our goals down into chunks, it might be difficult to achieve them. The convenient way to achieve the important goals that you have penned down for yourself is breaking down the goals into smaller ones. Have a long term goal, medium term goal and short term goals. When you break down your goals, you find it relatively easy to work towards the realization of your goals. As such, the best way to get to your destination is to have a mix of short, medium and long term goals. When you break down your goals, it's much easy to work towards because you know what to do in steps. Remember, no one can eat an elephant in one sitting. Take it a day at a time.
 
-Accountability
+
+#### Accountability
 
 Have friends that you are accountable to. Having friends that you are accountable to will help you get far with your goal. I call it an “Accountability buddy” who will help you make giant strides in your goals. However, you need to find someone that you can rely on and will be committed to you. Likewise, you need someone that you respect enough to listen to when he pushes you. Your accountability buddy will remind you to stay on track when you get distracted. Your accountability buddy could be your friend or a family member. Make them punish you if you do not achieve your goal in time. The punishment can be a bet.  You can set a bet on money; if you lose money, you will more than likely work hard to achieve your goal. Having a journal on a daily basis can remind you to do it continuously as well.
 
-Music
+
+#### Music
 
 Choose your song playlist wisely as this has an effect on your state of mind. So when you choose your tracks, you want to be sure that they are positive and can benefit you and make you grow. Music helps to improve brain function and health in many ways. Good music makes you happier, productive and smarter. More importantly, music helps to reduce stress and also improve your mood. Listening to music helps to reduce chronic stress by reducing the production of the stress hormone cortisol. Furthermore, music makes you powerful, hopeful and have control of your life. If you are having a bad day or you find yourself in a bad situation, listen to music. Good music has a way of healing you.
 
@@ -216,37 +235,43 @@ What's more? Music helps to boost the chemicals in the brain. Music affects our 
 
 Also, music helps to stimulate the production of the brain hormone oxytocin. Oxytocin is referred to as the moral or trust molecule as it instills trust and helps us bond more with others. Science has shown that oxytocin bump experienced by lovers of music can make them trustworthy and generous.
 
-Kill the fear
+
+#### Kill the fear
 
 This part focuses on eliminating the fears that stop you. Here, your weaknesses will start to pop out, and you will see how to overcome them. The only thing that can stop you is yourself. When you realize that you can achieve anything as long as you are focused, you will move on with high speed. Close your eyes and imagine yourself reaching your objectives and every step in between, so by the time it appears, your brain doesn't negotiate with setbacks. Instead, your brain deals with it.
 
 Take for Example: The fear center of your brain is scared of how the meeting will turn out. What can you do? Instead of worrying about how the meeting the turn out, why not imagine the person you are meeting with loving your presentation and asking more questions about your interests?
 
-Have a wallpaper
+
+#### Have a wallpaper
 
 To remind yourself throughout the day, have your wallpaper on the phone with your affirmation, your goals, and your writings of who you are. To write who you are, make sure that you write it in a format of "I am who I am," so your subconscious mind doesn't resist but think of it as facts.
 
-Compare how you lived
+
+#### Compare how you lived
 
 You really start to live when you face death, when you know your time is limited and there is an urgency to do something of much importance to you. Ask yourself as an exercise; if this is the last day of your life, what will you do? This will help to explore your head, your needs, your emotion, and what you love. This brings motivation to you! To intensify the life, compare how you lived a life before you die in the future and compare how you live now. If the life you lived surrounds what you strive for, then it's great.
 
-Yoga
+
+
+### Yoga
 
 The aim of yoga is to relax the whole body and clear the mind, making sure that the brain works less and relax as a form of meditation.  After testing the brain waves response to yoga I can say that it can be as potent as meditation if done right.
 
-The flow state
+#### The flow state
 
 The flow state comes when you don't engage in criticism and just do what you have to do. Our ideas of flow has been broken down as a result of constant self-criticism which leads to the ideas that create the negative self image. Live a life full of joy!  Live a life where you do what you want to do and you will create the life that you desire. Effortless ideas of growth and understanding will lead to the flow state where you are giving yourself to others and living in sync with the world.
 
- Ask a question ?
+#### Ask a question ?
 
 A good question leads to a great answer; Great answers lead to great decisions, and Great decisions lead to a great life. I've gone through different types of questions to make sure that my brain works on them over the years to come. How can I make this book more valuable to the person who is reading it? How can I find, experiment and test more information on a specific topic? How can I structure the book in a way that makes it easier to understand! Which other fields of science does this activity touch? These are the questions I've asked myself to make sure that everything can be easier for the reader to understand!
 
-Password for your goals
+
+####Password for your goals
 
 Set a password on your devices that remind you of your goal. For example; Write a music album before the end of the year, Write the book before the end of 4th of September, Sell x amount of glasses before the end of the year.
 
-Pain and Pleasure.
+#### Pain and Pleasure.
 
 If you think of the way we are built as humans, you will find that we constantly try to run away from pain and seek pleasure. If you find that working towards your goals comes with pain, there is a need for you to rewire your idea of pain and make your body do what needs to be done.
 
@@ -256,15 +281,15 @@ Your goals are your journey; therefore, your genetic destiny is based on your go
 
 Make your goals stay with you more conveniently than anything else. Everything is fighting for your convenience, the businesses that sell you goods, friends who love you, and your family makes convenience for your effort to be achieved. Don't make your life hard for yourself, you don't need that to get what you want.
 
-Define the needs of the market
+#### Define the needs of the market
 
 When it comes down to value creation, we all need to understand that market pays us to produce value, and it doesn't care about many aspects that people are setting as a priority which could be gear, person and location.  The market doesn't care if you are working from office or from home, if you use a laptop or a phone.
 
-Do what you love
+#### Do what you love
 
 If you do what you like and that matches with what the market needs, you ultimately get happier and more valuable over time. Sometime in the beginning, it’s hard to catch up, and you have to deliver the skill set. Even if you are doing what you love, you still need to get good at it. Your energy comes from passion and skill comes from experience.  Combine these factors and watch yourself get results fast. Also, you have to bring yourself where you learn and pursue things you are not good at. Even if you die without getting an economical reward, you will be happy as a person. Besides doing what you are re good at, I advise you to learn stuffs you are not good at as well. Learn fast so you can have the required skills and energy that brings enormous value and at the end, you will become valuable as a leader, artist, entrepreneur whichever you choose.
 
-Thinking squared
+#### Thinking squared
 
 The neocortex is the only brain that is able to think about itself. I recommend reflecting on your thinking. When you think of what you are you thinking, will start to filter out things that are detrimental to you as you will be aware of yourself.
 
@@ -276,7 +301,7 @@ Detox: Detox yourself, as this will help your brain send more electrical current
 
 Explore: Explore different types of meditation as different people have different preferences. For some, it's playing guitar, yoga, music, dancing, sitting cross-legged and figuring how to slow down the brain to become more observant.
 
-My four funky meditations.
+### y four funky meditations.
 
 1. Meditate on the highest note that you can reach: This is great for singers. It worked on my body but I didn’t test other people. Sit and hear the highest note in your body and elevate it to the point where your brain wouldn't recognize the notes.
 
@@ -292,7 +317,8 @@ Use the time when your body is lazy to think and plan, and when you are full of 
 
 To conclude the ‘I GOT Love journal’, meditation and plan will change your emotional state, so you become emotionally fit to tackle obstacle while taking away the pain from the past, so ensure that nothing slows you down.
 
-Story of Evolving loop
+
+###  Story of Evolving loop
 
 We are in this constant loop that evolves and will evolve. You get, you gain, you are bored, you seek, you get, you gain, you are bored you seek, you get, you gain, you are bored, and you seek. The person who is dumb and doomed is the person who never changes their mind.
 
@@ -308,7 +334,7 @@ When you are not taking steps to grow yourself, you are going on a negative down
 
 Once I was super drunk, enjoying the time with my friends and I made a toast! A toast for our parents! Saying that we as individuals don't have to put so many calories of energy to get the results. I was drinking and I was drunk that time but the idea that we create our life and we should find an easier way so we don't use up resources. We also need to make sure that we are self-disciplined and can do the work! Here, we are going to discuss the tricks, habits and tradeoffs of what it takes to do what you want. Also, we will discuss how to charge yourself so you have more energy and therefore can tackle the obstacles and how to conserve energy so you don't use it up.
 
-Meditation and awareness
+### Meditation and awareness
 When you see a power plant, it's aware of what happens inside of it. It feels and senses everything that is inside. In order for it to work and adjust, it has to be first aware of itself and what comes in and out. Human beings do that unconsciously but knowingly. Now being aware of your body will help you understand and reassess your environment.
 
 When a general sits on top of the hill, he sees the whole army and the opponent, and decides where to move the army to defeat the opponent. Information overload is happening in our brain. Every piece of information is the information that helps us to survive, and now we are making and consuming more and more information. Regarding the information overload; now our brain hasn't evolved as fast as information produced, but the amount of information that is given to us is extreme. Add few days of silence and less contact, and let the brain figure out things. Days of silence allows you to process things out. The less stimuli your brain has to deal with throughout the day, the less things it will process. Imagine you have a cup, and you pour in water all the time, and when you overfill it, the water will spill. But the brain tries to accommodate that water and increase in size and speed itself up. Now if you pour in less water, you will free your mind. The great practice is meditation but few days of meditation is one of the most effective, and being in silence is super effective. This will help so much drastically, and when you come back, you will change your priorities and therefore, actions, as your brain now knows what is more important.
@@ -323,20 +349,23 @@ The brain will rewire its structures when you meditate and it will reprioritize 
 
 Meditation helps to build your brain and change your value system.  Changing value system will let go of all the stuff that is not connected to you and free up the space for things that are important. Then, it builds up the brain to think outside the box and be more aware of the world.
 
-Distractions
+
+### Distractions
 
 Oftentimes, we are distracted from the things that are more important to us. We can solve the problem of distraction by first having an understanding of the things that are valuable to us. On a daily basis, ask yourself for the things that are more valuable to you, to the world and to your future, then project yourself towards the things.
 
-Activating the glands.
+
+### Activating the glands.
 
 To activate your pituitary gland, simply focus on the point between your eyebrows as it helps to stimulate the growth hormone.
 
 Find your strength and make your strength even better with time. When you do something important quickly, you tend to outrun the value creation environment that seeks to add more value on the planet. So, while meditating you will bring your focus back to the reality and the state to flow more and more. You should know that the overabundance of information brings about distortion of focus. So when you distract yourself with a truckload of information you don't need, you are simply wasting your time. Stimulate your brain to constantly search for useful information; this will help your brain evolve, grow, survive and procreate. Try not to sprinkle your brain with useless information, otherwise you'd just be wasting your life away.
 
-Understanding the field - aura
+
+### Understanding the field - aura
 Now I know this will sound a lot like pseudoscience but listen to me and you will understand what I'm trying to say.
 
-Two atoms form an element; few elements form a molecule, few molecules form a cell, many cells form an organ, many organs form a body, many bodies form a group, and many groups come together to form civilization. Now we need to understand the concept of an energy field where the field is the information exchange tool. The monks and many people who are in spiritual realms start to feel it as they are increasing their awareness of themselves and so they were drawing it in the paintings and calling it auras. The field will be charged with more positive emotions as more neurons will be created. Now it's hard to grasp the concept before feeling the field but stay with me. Now if you have no energy in the cell, what will happen? They will dissipate into atoms, and same comes from the body. The body will dissipate into particles and cells for nature to recycle it. The body needs to keep this field charged to be healthy. Meditation will train you to be more aware of it, and with time, you will know what needs to be done which may be engaging in breathing techniques to charge it, having a different diet and changing your perspective of life. The charge of the field applies to many things, but mainly, it will keep you going for longer, which will give you an extra step ahead when the rest are resting. The field is charged through the process of movement of spinal fluids, which are full of salts. That creates the field, and as it goes up in around 12 hours and down in 12 hours. This process can be hastened with breathing as well as the creation of electric current from the brain that comes from mechanic to electric. By exerting pressure on the crystals of a pineal gland you generate eletricity and the magnetic field.
+Two atoms form an element; few elements form a molecule, few molecules form a cell, many cells form an organ, many organs form a body, many bodies form a group, and many groups come together to form civilization. Now we need to understand the concept of an energy field where the field is the information exchange tool. The monks and many people who are in spiritual realms start to feel it as they are increasing their awareness of themselves and so they were drawing it in the paintings and calling it auras. The field will be charged with more positive emotions as more neurons will be created. Now it's hard to grasp the concept before feeling the field but stay with me. Now if you have no energy in the cell, what will happen? They will dissipate into atoms, and same comes from the body. The body will dissipate into particles and cells for nature to recycle it. The body needs to keep this field charged to be healthy. Meditation will train you to be more aware of it, and with time, you will know what needs to be done which may be engaging in breathing techniques to charge it, having a different diet and changing your perspective of life. The charge of the field applies to many things, but mainly, it will keep you going for longer, which will give you an extra step ahead when the rest are resting. The field is charged through the process of movement of spinal fluids, which are full of salts. That creates the field, and as it goes up in around 12 hours and down in 12 hours. This process can be hastened with breathing as well as the creation of electric current from the brain that comes from mechanic to electric. By exerting pressure on the crystals of a pineal gland you generate electricity and the magnetic field.
 
 The pineal gland, otherwise known as third eye is an electric generator for the body, and the way the spinal liquid moves up our spine, it turns the mechanical movement into electric which in turn creates the electricity.   The property of the pineal gland and its expansion allows the magnetic field to be made - some call it aura - but I call it the magnetic field. The magnetic field helps you to make the connection with the environment and turn you into a gamma brain wave producing machine that feels super excited, which processes the information and place the valuable information above all, as you have the brainpower to process and create the information architecture inside it.
 
@@ -349,19 +378,19 @@ To do something, you have to be driven to do it, and when you are in control of 
 DMT is a great tool that helps to rearrange the brains neuron connection. What happens when you escape a near death experience? You feel euphoric like your brain is controlling your life. This is the reason why I recommend mediation, breathing, exercise and other activities to stimulate the growth of your brain.
 
 
-Why worry?
+### Why worry?
 
 Why worry when there's a way out? Do you have a problem? Is there a solution? Why worry if there is a solution to your problems? Instead of spending your time worrying, consider looking at the positive and finding a solution. Cortisol, Testosterone and estrogen are all made from the same building blocks and can be depleted by stress and worry, so you want to be mindful of stress and worry. Decide how you respond to external stimuli and you will have a handle or edge over stress.
 
-A session with hypnotherapists and fortunetellers.
+### A session with hypnotherapists and fortunetellers.
 
 Having a session with fortune tellers help to lower your brainwaves, places you in a state of trance and sends information to your brain in a format that makes you digest it deeply. The same also applies to hypnotherapy.
 
-Watching TV
+### Watching TV
 
  Alpha waves are more present in your brain, and so you are more suggestible to information. Now instead of watching TV, I would like to ask you to create the movie of your future. And while at it, increase your magnetic field and change your genetic code by elevating your emotions.
 
- Living in the moment.
+### Living in the moment.
 
 Human beings have an idea of living in the moment, but if you ask me, I'd say living in the moment is a weird concept. We have a functioning brain that does the cognitive function of planning and going over memories to analyze them and see how we could have done things better in the past and how to do it better in the future.
 
@@ -369,9 +398,9 @@ Human beings have an idea of living in the moment, but if you ask me, I'd say li
 
 The idea of living in the moment is obsolete as you can't live in the other times yet, maybe quantum physicists will prove me wrong. It took a lot of time to figure out what to do in the future or remember, and now the philosophy jumps into this idea of do this and not that.
 
-Dream journal
+### Dream journal
 
- Our brain is an organ that we do not fully understand. We do not fully understand dreams, but writing a journal helps in analyzing the meaning. I have had many answers that came through in my dreams. Edison said to never go to bed without asking your subconscious to work. Your subconscious works with emotions, so make sure you focus your emotions before sleeping as well.
+Our brain is an organ that we do not fully understand. We do not fully understand dreams, but writing a journal helps in analyzing the meaning. I have had many answers that came through in my dreams. Edison said to never go to bed without asking your subconscious to work. Your subconscious works with emotions, so make sure you focus your emotions before sleeping as well.
 
 "The value of a character is based on how many uncomfortable acts were done to achieve virtue". - Andranik @focusmake
 
@@ -380,3 +409,4 @@ Dream journal
 "Before knowledge was power. Now knowing what to ignore is power. Now having a right value system is more important than anything else". Andranik @focusmake
 
 Meditation allows us to reprogram our subconscious by changing values to the things that we are isolating. It is controlling itself through feedback loops, and changes your automatic response to situations. Andranik @focusmake
+

@@ -5,7 +5,7 @@
 <meta name="viewport" content = "width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" >
 <meta name=description content="Browse the source code for a book by Andranik Okroyan" >
 <meta name=keywords content="JavaScript,GitHub,FOSS" >
-<meta name = "date" content = "2018-07-15" >
+<meta name = "date" content = "2018-07-22" >
 <title>Launch and Learn Online</title>
 <style>
 /* Copyright 2018 Launch and Learn authors. MIT License */
@@ -33,8 +33,8 @@
 	.default { background-color: white; color: #007bff; }
 	.cerulean { background-color: white; color: #2FA4E7; }
 	.cosmo { background-color: white; color: #2780E3; }
-	.cyborg { background-color: #060606; color: #2A9FD6; }
-	.darkly { background-color: #222; color: #00bc8c; }
+	.cyborg { background-color: #060606; color: #2A9FD6; font-style: italic; }
+	.darkly { background-color: #222; color: #00bc8c; font-style: italic; }
 	.flatly { background-color: white; color: #18BC9C; }
 	.journal { background-color: white; color: #EB6864; }
 	.litera { background-color: white; color: #4582EC; }
@@ -46,10 +46,10 @@
 	.sandstone { background-color: white; color: #93C54B; }
 	.simplex { background-color: white; color: #D9230F; }
 	.sketchy { background-color: white; color: #333; }
-	.slate { background-color: #272B30; color: #fff; }
-	.solar { background-color: #002B36; color: #839496; }
+	.slate { background-color: #272B30; color: #fff; font-style: italic; }
+	.solar { background-color: #002B36; color: #839496; font-style: italic; }
 	.spacelab { background-color: white; color: #3399F3; }
-	.superhero { background-color: #2B3E50; color: #DF691A; }
+	.superhero { background-color: #2B3E50; color: #DF691A; font-style: italic; }
 	.united { background-color: white; color: #E95420; }
 	.yeti { background-color: white; color: #008cba; }
 
@@ -102,8 +102,8 @@
 						<option class=default value="https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css" >Default</option>
 						<option class=cerulean value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cerulean/bootstrap.min.css" >Cerulean</option>
 						<option class=cosmo value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cosmo/bootstrap.min.css" >Cosmo</option>
-						<option class=cyborg value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cyborg/bootstrap.min.css" >Cyborg</option>
-						<option class=darkly value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/darkly/bootstrap.min.css" >Darkly</option>
+						<option class=cyborg title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cyborg/bootstrap.min.css" >Cyborg</option>
+						<option class=darkly title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/darkly/bootstrap.min.css" >Darkly</option>
 						<option class=flatly value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/flatly/bootstrap.min.css" >Flatly</option>
 						<option class=journal value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/journal/bootstrap.min.css" >Journal</option>
 						<option class=litera value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/litera/bootstrap.min.css" >Litera</option>
@@ -115,10 +115,10 @@
 						<option class=sandstone value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/sandstone/bootstrap.min.css" >Sandstone</option>
 						<option class=simplex value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/simplex/bootstrap.min.css" >Simplex</option>
 						<option class=sketchy value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/sketchy/bootstrap.min.css" >Sketchy</option>
-						<option class=slat value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/slate/bootstrap.min.css"e >Slate</option>
-						<option class=solar value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/solar/bootstrap.min.css" >Solar</option>
+						<option class=slate title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/slate/bootstrap.min.css"e >Slate</option>
+						<option class=solar title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/solar/bootstrap.min.css" >Solar</option>
 						<option class=spacelab value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/spacelab/bootstrap.min.css" >Spacelab</option>
-						<option class=superhero value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/superhero/bootstrap.min.css" >Superhero</option>
+						<option class=superhero title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/superhero/bootstrap.min.css" >Superhero</option>
 						<option class=united value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/united/bootstrap.min.css" >United</option>
 						<option class=yeti value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/yeti/bootstrap.min.css" >Yeti</option>
 					</optgroup>
@@ -169,11 +169,10 @@
 // https://github.com/showdownjs/showdown << check for latest rev from time to time 1.8.6 2018-07-02
 // jshint esversion: 6
 
-const url = 'https://launchandlearn.github.io/launch-and-learn-by-andranik-okroyan.html';
-//	let defaultFile = 'index.html';
+
 //	location.hash = '../README.md';
 const uriDefaultFile = 'README.md';
-
+const urlSourceCode = "https://github.com/launchandlearn/launchandlearn.github.io";
 
 const themeName = localStorage.getItem( 'themeName' ) || 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css';
 selTheme.value = themeName ;
@@ -195,7 +194,7 @@ function init() {
 	divTitle.innerHTML =
 		`
 		<h2>
-			<a href="https://github.com/launchandlearn/launchandlearn.github.io" target="_top" title="Source code on GitHub" >
+			<a href=${ urlSourceCode } target="_top" title="Source code on GitHub" >
 				<img src="https://status.github.com/images/invertocat.png" height=18 ></a>
 			<br>
 			<a href = "" title = "Click to reload this page" >${document.title}</a>
@@ -355,6 +354,7 @@ function onTouchMove(event) {
 }
 
 
+
 function toggleNav() {
 
 	const width = getComputedStyle(document.documentElement).getPropertyValue( '--mnu-width' ).trim();
@@ -377,7 +377,6 @@ function toggleNav() {
 	}
 
 }
-
 
 
 
@@ -468,7 +467,6 @@ function fetchMenuR2() {
 	<hr>
 `
 }
-
 
 
 

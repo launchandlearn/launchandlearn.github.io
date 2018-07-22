@@ -43,6 +43,11 @@ Use the 'View online' item in the left to read this book online or click the fol
 ### Change Log
 
 
+#### 2018-07-22
+
+* Dark themes have 'dark' tooltip and are in italics
+
+
 #### 2018-07-20
 
 * Added more themes. Now possible to add a custom-tailored theme

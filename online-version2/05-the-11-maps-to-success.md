@@ -1,3 +1,12 @@
+
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html#online-version2/05-the-11-maps-to-success.md "View file as a web page." ) </span>
+
+<div><input type=button class = 'btn btn-secondary btn-sm' onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/blob/master/online-version2/05-the-11-maps-to-success.md'";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+
+<br>
+
+
 ## THE 11 MAPS TO SUCCESS
 
 Do you know that doing a set of activities that will help add value to people just by engaging in them also changes your life? That is, the set of activities you do to help people also comes back to mold you into the person you want to be. Are you interested in knowing these activities and why you should do them?

@@ -1,9 +1,10 @@
 
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html#online-version2/03-format-of-the-book.md "View file as a web page." ) </span>
 
-<div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/blob/master/online-version2/03-format-of-the-book.md'";
+<div><input type=button class = 'btn btn-secondary btn-sm' onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/blob/master/online-version2/03-format-of-the-book.md'";
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
 
+<br>
 
 ## FORMAT OF THE BOOK
 This book is a guide that is systematically written and arranged chronologically to extract value from each action and expand the next one. Each step is explanatory with detailed hows and whys as well as the benefits of the steps and how it turns your life around.

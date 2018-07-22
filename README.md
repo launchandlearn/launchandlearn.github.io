@@ -30,7 +30,8 @@ Use the 'View online' item in the left to read this book online or click the fol
 
 ### To Do
 
-* Complete adding Markdown headings to the next text
+* Complete add 'view as source code' buttons
+
 
 
 ### License
@@ -44,9 +45,14 @@ Use the 'View online' item in the left to read this book online or click the fol
 
 #### 2018-07-20
 
-* Added more themes
-* Code cleanup
+* Added more themes. Now possible to add a custom-tailored theme
+* Code cleanup.
+* Finished adding Markdowm headers to all Markdown chapters
 
+
+Thinking about next stages
+* Adding free open source images from [Unsplash]() https://unsplash.com/ ) to the beginning of every chapter and wherever relevant
+* Adding links to Wikipedia articles wherever relevant
 
 #### 2018-07-16
 

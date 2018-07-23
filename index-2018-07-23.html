@@ -20,9 +20,6 @@
 	blockquote, pre { background-color:rgba(240, 240, 240, 0.25 ); padding: 1em }
 	button:hover, input[ type=button ]:hover { background-color: #ccc; color: white }
 	img { max-height: 600px; max-width: 800px; }
-	summary { font-weight: bold; }
-
-	button.theme { margin: 0.3rem !important; border-width: 1px; }
 
 	#divContainer { height: 100%; margin: 0 0 0 var( --mnu-width ); transition: margin-left .5s; position: relative; }
 	#divContents { height: 100%; left: 0; margin: 0 auto; max-width: 50rem; padding: 1rem; right: 0;}
@@ -31,6 +28,30 @@
 		width: var( --mnu-width ); z-index: 1; transition: left 0.5s; }
 	#hamburger { cursor: pointer; font-size: 2rem; left: calc( var( --mnu-width ) - 4rem );
 		line-height: 2rem; position: fixed; top: 0; transition: left 0.5s; z-index: 10; }
+
+
+	.default { background-color: white; color: #007bff; }
+	.cerulean { background-color: white; color: #2FA4E7; }
+	.cosmo { background-color: white; color: #2780E3; }
+	.cyborg { background-color: #060606; color: #2A9FD6; font-style: italic; }
+	.darkly { background-color: #222; color: #00bc8c; font-style: italic; }
+	.flatly { background-color: white; color: #18BC9C; }
+	.journal { background-color: white; color: #EB6864; }
+	.litera { background-color: white; color: #4582EC; }
+	.lumen { background-color: white; color: #158CBA; }
+	.lux { background-color: white; color: #1a1a1a; }
+	.materia { background-color: white; color: #2196F3; }
+	.minty { background-color: white; color: #78C2AD; }
+	.pulse { background-color: white; color: #593196; }
+	.sandstone { background-color: white; color: #93C54B; }
+	.simplex { background-color: white; color: #D9230F; }
+	.sketchy { background-color: white; color: #333; }
+	.slate { background-color: #272B30; color: #fff; font-style: italic; }
+	.solar { background-color: #002B36; color: #839496; font-style: italic; }
+	.spacelab { background-color: white; color: #3399F3; }
+	.superhero { background-color: #2B3E50; color: #DF691A; font-style: italic; }
+	.united { background-color: white; color: #E95420; }
+	.yeti { background-color: white; color: #008cba; }
 
 
 /*
@@ -75,17 +96,46 @@
 
 		<div id= "divFooter" >
 
-			<details>
+			<p>
+				<select id=selTheme onchange=updateCss(this.value); class="form-control" >
+					<optgroup label="Bootswatch Themes">
+						<option class=default value="https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css" >Default</option>
+						<option class=cerulean value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cerulean/bootstrap.min.css" >Cerulean</option>
+						<option class=cosmo value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cosmo/bootstrap.min.css" >Cosmo</option>
+						<option class=cyborg title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/cyborg/bootstrap.min.css" >Cyborg</option>
+						<option class=darkly title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/darkly/bootstrap.min.css" >Darkly</option>
+						<option class=flatly value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/flatly/bootstrap.min.css" >Flatly</option>
+						<option class=journal value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/journal/bootstrap.min.css" >Journal</option>
+						<option class=litera value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/litera/bootstrap.min.css" >Litera</option>
+						<option class=lumen value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/lumen/bootstrap.min.css" >Lumen</option>
+						<option class=lux value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/lux/bootstrap.min.css" >Lux</option>
+						<option class=meteria value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/materia/bootstrap.min.css" >Materia</option>
+						<option class=minty value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/minty/bootstrap.min.css" >Minty</option>
+						<option class=pulse value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/pulse/bootstrap.min.css" >Pulse</option>
+						<option class=sandstone value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/sandstone/bootstrap.min.css" >Sandstone</option>
+						<option class=simplex value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/simplex/bootstrap.min.css" >Simplex</option>
+						<option class=sketchy value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/sketchy/bootstrap.min.css" >Sketchy</option>
+						<option class=slate title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/slate/bootstrap.min.css"e >Slate</option>
+						<option class=solar title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/solar/bootstrap.min.css" >Solar</option>
+						<option class=spacelab value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/spacelab/bootstrap.min.css" >Spacelab</option>
+						<option class=superhero title="dark" value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/superhero/bootstrap.min.css" >Superhero</option>
+						<option class=united value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/united/bootstrap.min.css" >United</option>
+						<option class=yeti value="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/yeti/bootstrap.min.css" >Yeti</option>
+					</optgroup>
+					<optgroup label="Themes from other sources">
+						<option class=material-kit value="https://demos.creative-tim.com/material-kit/assets/css/material-kit.min.css" >Material Kit</option>
+						<option class="initio" value="https://www.gettemplate.com/demo/initio/assets/css/styles.css" >Initio</option>
+						<option class="creative" value="https://blackrockdigital.github.io/startbootstrap-creative/css/creative.min.css" >Creative</option>
+						<option class="cardio" value="https://tympanus.net/Freebies/Cardio/css/cardio.css" >Cardio</option>
+						<option class="magister" value="https://www.gettemplate.com/demo/magister/assets/css/magister.css" >Magister</option>
 
-				<summary>Settings</summary>
+						<!--
+							<option class="" value="" ></option>
+						-->
 
-				<div id=divBootswatch ></div>
-
-				<div id=divCssOthers ></div>
-
-			</details>
-
-			<hr>
+					</optgroup>
+				</select>
+			</p>
 
 			<div><a href=#LICENSE.md >License</a></div>
 			<div><a href=#developer-notes.md >dev notes</a></div>
@@ -124,7 +174,8 @@
 const uriDefaultFile = 'README.md';
 const urlSourceCode = "https://github.com/launchandlearn/launchandlearn.github.io";
 
-let themeName = localStorage.getItem( 'themeName' ) || 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css';
+const themeName = localStorage.getItem( 'themeName' ) || 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css';
+selTheme.value = themeName ;
 
 let xDown = null;
 let yDown = null;
@@ -141,17 +192,15 @@ function init() {
 	updateCss( themeName );
 
 	divTitle.innerHTML =
-	`<h2>
-		<a href=${ urlSourceCode } target="_top" title="Source code on GitHub" >
-			<img src="https://status.github.com/images/invertocat.png" height=18 ></a>
-		<br>
-		<a href = "" title = "Click to reload this page" >${document.title}</a>
-	</h2>
-	<p>
-		${ document.head.querySelector( '[name=description]' ).content }
-	</p>`;
-
-	setTheme();
+		`
+		<h2>
+			<a href=${ urlSourceCode } target="_top" title="Source code on GitHub" >
+				<img src="https://status.github.com/images/invertocat.png" height=18 ></a>
+			<br>
+			<a href = "" title = "Click to reload this page" >${document.title}</a>
+		</h2>
+		<p>${ document.head.querySelector( '[name=description]' ).content }</p>
+		`;
 
 	// Swipe events
 	document.addEventListener( 'touchstart', onTouchStart, false );
@@ -165,81 +214,12 @@ function init() {
 
 
 
+function updateCss( value ) {
 
-function setTheme( target ) {
-
-	const themesBootswatch = [
-		{ 'Default': 'background-color: white; color: #007bff' },
-		{ "Cerulean": 'background-color: white; color: #2FA4E7;' },
-		{'Cosmo': 'background-color: white; color: #2780E3;' },
-		{ 'Cyborg': 'background-color: #060606; color: #2A9FD6; font-style: italic;' },
-		{ 'Darkly': 'background-color: #222; color: #00bc8c; font-style: italic;' },
-		{ 'Flatly': 'background-color: white; color: #18BC9C;' },
-		{ 'Journal': 'background-color: white; color: #EB6864;' },
-		{ 'Litera': 'background-color: white; color: #4582EC;' },
-		{ 'Lumen': 'background-color: white; color: #158CBA;' },
-		{ 'Lux': 'background-color: white; color: #1a1a1a;' },
-		{ 'Materia': 'background-color: white; color: #2196F3;' },
-		{ 'Minty': 'background-color: white; color: #78C2AD;' },
-		{ 'Pulse': 'background-color: white; color: #593196;' },
-		{ 'Sandstone': 'background-color: white; color: #93C54B;' },
-		{ 'Simplex': 'background-color: white; color: #D9230F;' },
-		{ 'Sketchy': 'background-color: white; color: #333;' },
-		{ 'Slate': 'background-color: #272B30; color: #fff; font-style: italic;' },
-		{ 'Solar': 'background-color: #002B36; color: #839496; font-style: italic;' },
-		{ 'Spacelab': 'background-color: white; color: #3399F3;' },
-		{ 'Superhero': 'background-color: #2B3E50; color: #DF691A; font-style: italic;' },
-		{ 'United': 'background-color: white; color: #E95420;' },
-		{ 'Yeti': 'background-color: white; color: #008cba;' },
-	];
-
-
-	const themesOthers = [
-
-		{ link: "https://demos.creative-tim.com/material-kit/assets/css/material-kit.min.css", name: "Material Kit" },
-		{ link: "https://www.gettemplate.com/demo/initio/assets/css/styles.css", name: 'Initio' },
-		{ link: "https://blackrockdigital.github.io/startbootstrap-creative/css/creative.min.css", name: 'Creative' },
-		{ link: "https://tympanus.net/Freebies/Cardio/css/cardio.css", name: 'Cardio' },
-		{ link: "https://www.gettemplate.com/demo/magister/assets/css/magister.css", name: 'Magister' },
-	];
-
-
-	const txt1 = themesBootswatch.map( theme => {
-		const name = Object.keys( theme )[ 0 ];
-		link = name === 'Default' ? 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css' :
-			`https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/${ name.toLowerCase() }/bootstrap.min.css`;
-		bingo =  link === themeName ? '>>> ' : ''
-		return `<button class=theme onclick=updateCss("${ link }"); style="${ theme[name] }" >${ bingo } ${ name }</button> `;
-
-	});
-
-	divBootswatch.innerHTML = '<p>Themes from <a href="https://bootswatch.com/" target=_blank>Bootswatch</a><br>' + txt1.join( '' );
-
-	let txt = '<p>Themes from other sources</p>';
-
-	for ( let theme of themesOthers ) {
-
-		//name = Object.keys( theme )[ 0 ];
-		//console.log( 'name', name );
-		//console.log( 'link', theme.link );
-		txt += `<button class="theme btn btn-secondary" onclick=updateCss("${ theme.link }"); style="${ theme.name }" >${ theme.name }</button> `;
-
-		divCssOthers.innerHTML = txt + '<p><small>these buttons are work-in-progress WIP</small></p>';
-
-	}
+	css.href = value;
+	localStorage.setItem( 'themeName', value );
 
 }
-
-
-
-function updateCss( link ) {
-
-	themeName = css.href = link;
-	localStorage.setItem( 'themeName', link );
-	setTheme();
-
-}
-
 
 
 

@@ -19,9 +19,10 @@
 	a:hover, a:focus { background-color: yellow; color: #888; }
 	blockquote, pre { background-color:rgba(240, 240, 240, 0.25 ); padding: 1rem }
 	button:hover, input[ type=button ]:hover { background-color: #ccc; color: white }
-	button.theme { border-width: 1px; margin: 0.3rem !important; min-width: 5rem/ }
 	img { max-height: 600px; max-width: 800px; }
 	summary { font-weight: bold; }
+
+	button.theme { margin: 0.3rem !important; border-width: 1px; }
 
 	#divContainer { height: 100%; margin: 0 0 0 var( --mnu-width ); transition: margin-left .5s; position: relative; }
 	#divContents { height: 100%; left: 0; margin: 0 auto; max-width: 50rem; padding: 1rem; right: 0;}
@@ -170,7 +171,7 @@ function setTheme( target ) {
 	const themesBootswatch = [
 		{ 'Default': 'background-color: white; color: #007bff' },
 		{ "Cerulean": 'background-color: white; color: #2FA4E7;' },
-		{ 'Cosmo': 'background-color: white; color: #2780E3;' },
+		{'Cosmo': 'background-color: white; color: #2780E3;' },
 		{ 'Cyborg': 'background-color: #060606; color: #2A9FD6; font-style: italic;' },
 		{ 'Darkly': 'background-color: #222; color: #00bc8c; font-style: italic;' },
 		{ 'Flatly': 'background-color: white; color: #18BC9C;' },
@@ -205,11 +206,10 @@ function setTheme( target ) {
 
 	const txt1 = themesBootswatch.map( theme => {
 		const name = Object.keys( theme )[ 0 ];
-		link = name === 'Default' ?
-			'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css' :
+		link = name === 'Default' ? 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css' :
 			`https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/${ name.toLowerCase() }/bootstrap.min.css`;
-		bingo =  link === themeName ? '*' : ''
-		return `<button class=theme onclick=updateCss("${ link }"); style="${ theme[name] }" >${ bingo }${ name }${ bingo }</button> `;
+		bingo =  link === themeName ? '>>> ' : ''
+		return `<button class=theme onclick=updateCss("${ link }"); style="${ theme[name] }" >${ bingo } ${ name }</button> `;
 
 	});
 
@@ -242,6 +242,7 @@ function updateCss( link ) {
 
 
 
+
 function onHashChange() {
 
 	const url = !location.hash ? uriDefaultFile : location.hash.slice( 1 );
@@ -258,8 +259,7 @@ function onHashChange() {
 
 		divContents.innerHTML = `<iframe src=${ url } height=100% width=100% ></iframe>`;
 
-	} else if ( /\.(jpe?g|png|ico|svg|gif)$/i.test( file.name)  ) {
-	//} else if ( ulc.endsWith( '.gif' ) || ulc.endsWith( '.png' ) || ulc.endsWith( '.jpg' ) || ulc.endsWith( '.ico' ) || ulc.endsWith( '.svg' ) ) {
+	} else if ( ulc.endsWith( '.gif' ) || ulc.endsWith( '.png' ) || ulc.endsWith( '.jpg' ) || ulc.endsWith( '.svg' )) {
 
 		divContents.innerHTML = `<img src=${ url } >`;
 

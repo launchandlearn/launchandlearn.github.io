@@ -62,9 +62,9 @@
 
 			<h3><a href="" >Read Me file</a></h3>
 
-			<h3><a href=JavaScript:fetchText(urlFileHTML,divContents) >View online v1</a></h3>
+			<h3><a href=JavaScript:fetchText(url,divContents) >View online</a></h3>
 
-			<h3><a href=JavaScript:fetchMenuR2() >View online v2</a></h3>
+			<h3><a href=JavaScript:fetchMenuR2() >View online R2</a></h3>
 
 		</div>
 
@@ -123,7 +123,6 @@
 //	location.hash = '../README.md';
 const uriDefaultFile = 'README.md';
 const urlSourceCode = "https://github.com/launchandlearn/launchandlearn.github.io";
-const urlFileHTML = 'https://launchandlearn.github.io/launch-and-learn-by-andranik-okroyan.html';
 
 let themeName = localStorage.getItem( 'themeName' ) || 'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css';
 
@@ -132,8 +131,9 @@ let yDown = null;
 
 const txt = 'lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?';
 
-init();
 
+
+init();
 
 
 function init() {

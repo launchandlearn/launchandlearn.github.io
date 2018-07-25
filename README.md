@@ -54,7 +54,7 @@ Use the 'View online' items in the left to read this book online or
 
 ### Support
 
-Kindly report all issues, bugs suggestions and comments to out GitHub issues page: https://github.com/launchandlearn/launchandlearn.github.io/issues
+Kindly report all issues, bugs suggestions and comments to the _Launch and Learn_ GitHub issues page: https://github.com/launchandlearn/launchandlearn.github.io/issues
 
 <hr>
 

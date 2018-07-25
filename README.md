@@ -42,13 +42,19 @@ Use the 'View online' items in the left to read this book online or
 
 <hr>
 
-### To Do
+### To do / wish list
 
 * Complete adding 'view as source code' buttons
 * Add images at the beginning of every chapter
 * Add links to Wikipedia entries where appropriate. Examples: [melatonin]( https://en.wikipedia.org/wiki/Melatonin ) and [cortisol](https://en.wikipedia.org/wiki/Cortisol)
 * Add links to Google Translate versions
 
+
+<hr>
+
+### Support
+
+Kindly report all issues, bugs suggestions and comments to out GitHub issues page: https://github.com/launchandlearn/launchandlearn.github.io/issues
 
 <hr>
 
@@ -59,13 +65,13 @@ Use the 'View online' items in the left to read this book online or
 
 <hr>
 
-### Change Log
+### Change log
 
 
 #### 2018-07-25
 
-* Fix link to view online r1
-* update readme
+* Fix link to 'view online r1'
+* Update readme
 
 
 #### 2018-07-23
@@ -82,7 +88,7 @@ Use the 'View online' items in the left to read this book online or
 
 * Added more themes. Now possible to add a custom-tailored theme
 * Code cleanup.
-* Finished adding Markdowm headers to all Markdown chapters
+* Finished adding Markdown headers to all Markdown chapters
 
 
 Thinking about next stages

@@ -1,3 +1,10 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html#online-version2/map-05-journal-meditation.md "View file as a web page." ) </span>
+
+<div><input type=button class = 'btn btn-secondary btn-sm' onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/blob/master/online-version2/map-05-journal-meditation.md'";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+
+<br>
+
 ## MAP 5: JOURNAL MEDITATION
 
 The story of life: Wake up, prepare an amazing breakfast comprising of lots of pancakes for yourself. You sit down to eat and while eating, you check the time only to realize that you have to stop your meal immediately otherwise you'd be late for your 9am appointment. Then, you dash out of the house. Some minutes later, your wife wakes up to find the kitchen dirty and the dishes unwashed. She's angry and she thinks of you as an asshole who can't seem to look after himself. When you return home in the evening, your wife in her elevated brain state calls you a moron. What do you do? You do one of two things. It's either you snap at her or you say something that make her appeal towards you. Emotions and brainwaves are a tad related. Your brain spikes when you overheat it. So, there is a need for you to pause and give your brain time to process when you are in difficult situations.

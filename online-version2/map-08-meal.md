@@ -1,3 +1,10 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html#online-version2/map-08-meal.md "View file as a web page." ) </span>
+
+<div><input type=button class = 'btn btn-secondary btn-sm' onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/blob/master/online-version2/map-08-meal.md'";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+
+<br>
+
 ## MAP 8: MEAL
 
 ### What does the digestion?

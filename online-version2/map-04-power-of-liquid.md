@@ -1,3 +1,10 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html#online-version2/map-04-power-of-liquid.md "View file as a web page." ) </span>
+
+<div><input type=button class = 'btn btn-secondary btn-sm' onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/blob/master/online-version2/map-04-power-of-liquid.md'";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+
+<br>
+
 ## MAP 4: POWER OF LIQUID
 
 After a long night of sleep, the body requires water. Infusing lemon in your water is one of the ways to give your morning drink an extra benefit. It's important to note that lemon is alkaline in nature on the inside and acidic on the outside. So, drink with a straw and make sure you brush your teeth before your lemon infused water as brushing can cause damage to your teeth same applies to apple cider vinegar. Now, the common factor about the western diet is that majority of the food constituents are highly acidic and as such, they stress the body. Take for instance; coffee is highly acidic so as much as you love taking coffee, it's expedient that you replace coffee with green tea to be on the safe side. I have a list of ingredients you can mix and drink for breakfast to live longer and have less stress.

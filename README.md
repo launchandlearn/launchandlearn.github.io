@@ -44,11 +44,10 @@ Use the 'View online' items in the left to read this book online or
 
 ### To do / wish list
 
-* Complete adding 'view as source code' buttons
 * Add images at the beginning of every chapter
 * Add links to Wikipedia entries where appropriate. Examples: [melatonin]( https://en.wikipedia.org/wiki/Melatonin ) and [cortisol](https://en.wikipedia.org/wiki/Cortisol)
 * Add links to Google Translate versions
-
+* Establish a style guide for headings and capitalization
 
 <hr>
 
@@ -72,7 +71,8 @@ Kindly report all issues, bugs suggestions and comments to the _Launch and Learn
 
 * Fix link to 'view online r1'
 * Update readme
-
+* Add buttons with link to GitHub source code at top of each v2 chapter. Fingers croseed they all work
+	* Done: Complete adding 'view as source code' buttons
 
 #### 2018-07-23
 

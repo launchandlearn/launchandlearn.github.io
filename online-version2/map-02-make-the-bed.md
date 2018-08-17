@@ -1,8 +1,8 @@
 
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html#online-version2/map-02-make-the-bed.md "View file as a web page." ) </span>
 
-<div><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/blob/master/online-version2/map-02-make-the-bed.md'";
-value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+<div style=text-align:right; ><input type=button onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io/blob/master/online-version2/map-02-make-the-bed.md'";
+value='Edit this page' class="btn btn-primary" title="Download versions available for you to remix" ></div>
 
 ## MAP 2: MAKE THE BED
 

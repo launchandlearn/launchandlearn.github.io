@@ -1,7 +1,7 @@
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://launchandlearn.github.io/index.html "View file as a web page." ) </span>
 
-<div><input type=button class = 'btn btn-secondary btn-sm' onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io'";
-value='You are now in a GitHub web page view - Click this button to view this read me file as source code' class="btn btn-primary" title="Download versions available for you to remix" ></div>
+<div style=text-align:right; ><input type=button class = 'btn btn-secondary btn-sm' onclick="window.location.href='https://github.com/launchandlearn/launchandlearn.github.io'";
+value='Edit this page' class="btn btn-primary" title="Download versions available for you to remix" ></div>
 
 <br>
 
@@ -9,7 +9,8 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 _Source code for a book by Andranik Okroyan_
 
-<img alt="launch and learn cover" src="https://launchandlearn.github.io/launch-and-learn-cover.png" style=max-width:900px;/>
+
+<img alt="launch and learn cover" src="https://launchandlearn.github.io/launch-and-learn-cover.png" />
 
 From the conclusion:
 <div class=jumbotron >
@@ -53,7 +54,7 @@ Use the 'View online' items in the left to read this book online or
 
 ### Support
 
-Kindly report all issues, bugs suggestions and comments to the _Launch and Learn_ GitHub issues page: https://github.com/launchandlearn/launchandlearn.github.io/issues
+Kindly report all issues, bugs suggestions and comments to the _Launch and Learn_ [GitHub issues page]( https://github.com/launchandlearn/launchandlearn.github.io/issues )
 
 <hr>
 

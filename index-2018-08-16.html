@@ -5,38 +5,38 @@
 <meta name="viewport" content = "width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" >
 <meta name=description content="Browse the source code for a book by Andranik Okroyan" >
 <meta name=keywords content="JavaScript,GitHub,FOSS" >
-<meta name = "date" content = "2018-08-17" >
+<meta name = "date" content = "2018-07-22" >
 <title>Launch and Learn Online</title>
 <style>
 /* Copyright 2018 Launch and Learn authors. MIT License */
 
-	:root { --mnu-width: 20rem; font-size: 0.9em; }
+	:root { --mnu-width: 20rem; font-size: 1em; }
 
 	html { height: 100%; margin: 0; }
 
 	body { height: 100%; margin: 0; }
 
 	a:hover, a:focus { background-color: yellow; color: #888; }
-	blockquote, pre { background-color:rgba(240, 240, 240, 0.25 ); box-sizing: border-box; padding: 1rem }
+	blockquote, pre { background-color:rgba(240, 240, 240, 0.25 ); padding: 1rem }
 	button:hover, input[ type=button ]:hover { background-color: #ccc; color: white }
-	button.theme { border-width: 1px; margin: 0.3rem !important; min-width: 5rem; }
-	img { max-width: 100%; }
+	button.theme { border-width: 1px; margin: 0.3rem !important; min-width: 5rem/ }
+	img { max-height: 600px; max-width: 800px; }
 	summary { font-weight: bold; }
 
-	#divContainer { height: 100%; margin: 0 0 0 var( --mnu-width ); transition: margin-left .5s;  }
+	#divContainer { height: 100%; margin: 0 0 0 var( --mnu-width ); transition: margin-left .5s; position: relative; }
 	#divContents { height: 100%; left: 0; margin: 0 auto; max-width: 50rem; padding: 1rem; right: 0;}
 
 	#divMenu { max-height: 100%; overflow-x: hidden; padding: 1rem; position: fixed; resize: both; top: 0;
 		width: var( --mnu-width ); z-index: 1; transition: left 0.5s; }
-	#hamburger { bottom: 3rem; cursor: pointer; font-size: 2rem; height: 3rem; left:- 4rem;
-		line-height: 2rem; position: fixed; transition: left 0.5s; z-index: 10; }
+	#hamburger { cursor: pointer; font-size: 2rem; left: calc( var( --mnu-width ) - 4rem );
+		line-height: 2rem; position: fixed; top: 0; transition: left 0.5s; z-index: 10; }
 
 
 /*
 
 	body, html { font: 12pt "Trebuchet MS", helvetica, sans-serif; height: 100%; margin: 0; }
 
-	button, input[ type=button ] { background-color: #ddd; border: none; cursor: pointer; padding: 3px 20px; }
+	button, input[ type=button ] { background-color: #ddd; border: none; color: var( --mnu-color ); cursor: pointer; padding: 3px 20px; }
 
 	iframe { border: none; width: 100%; }
 
@@ -44,10 +44,12 @@
 	input[ type = range ]::-moz-range-thumb { background-color: #888; border-radius: 0; width: 10px; }
 	input[ type = range ]::-webkit-slider-thumb { -webkit-appearance: none; background-color: #888; height: 20px; width: 10px; }
 
+	td { vertical-align: top; }
+
 */
 
 </style>
-<link id=css rel="stylesheet" href="" >
+<link id=css rel="stylesheet" href="" type="text/css" >
 </head>
 <body>
 <script src=https://cdn.rawgit.com/showdownjs/showdown/1.8.6/dist/showdown.min.js ></script>
@@ -74,7 +76,7 @@
 
 			<details>
 
-				<summary>Themes</summary>
+				<summary>Settings</summary>
 
 				<div id=divBootswatch ></div>
 
@@ -96,11 +98,13 @@
 				<div><a href="https://api.github.com/rate_limit" target=_blank title='If menu stops appearing, it is likely due to too many API calls' >View GitHub API Rate Limits</a></div>
 				-->
 
-			<h3 onclick="divMenu.scrollTop=0;" style="cursor:pointer;text-align:center;" title="go to top of page" > &#x2766; </h3>
+			</div>
+
+			<h3 style=cursor:pointer;text-align:center;><a href="JavaScript:divMenu.scrollTop=0;"  title='go to top of page' > &#x2766; </a></h3>
 
 		</div>
 
-	</div>
+
 
 	<div id = "divContainer" >
 
@@ -108,7 +112,7 @@
 
 	</div>
 
-	<button id = "hamburger" class = "btn btn-primary" onclick=toggleNav(); > slide &#9776; </button>
+	<button id = "hamburger" class = "btn btn-primary" onclick=toggleNav(); > slide &#9776;  </button>
 
 <script>
 
@@ -126,6 +130,7 @@ let themeName = localStorage.getItem( 'themeName' ) || 'https://bootswatch.com/_
 let xDown = null;
 let yDown = null;
 
+const txt = 'lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?';
 
 init();
 
@@ -135,12 +140,18 @@ function init() {
 
 	updateCss( themeName );
 
-	setTitle( divTitle );
+	divTitle.innerHTML =
+	`<h2>
+		<a href=${ urlSourceCode } target="_top" title="Source code on GitHub" >
+			<img src="https://status.github.com/images/invertocat.png" height=18 ></a>
+		<br>
+		<a href = "" title = "Click to reload this page" >${document.title}</a>
+	</h2>
+	<p>
+		${ document.head.querySelector( '[name=description]' ).content }
+	</p>`;
 
-	//setTestingExtras( divExtras );
-
-	//dragDropArea.addEventListener( "dragover", function( event ){ event.preventDefault(); }, true );
-	//dragDropArea.addEventListener( 'drop', onDrop, false );
+	setTheme();
 
 	// Swipe events
 	document.addEventListener( 'touchstart', onTouchStart, false );
@@ -152,15 +163,6 @@ function init() {
 
 }
 
-
-
-function updateCss( link ) {
-
-	themeName = css.href = link;
-	localStorage.setItem( 'themeName', link );
-	setTheme();
-
-}
 
 
 
@@ -203,7 +205,6 @@ function setTheme( target ) {
 
 
 	const txt1 = themesBootswatch.map( theme => {
-
 		const name = Object.keys( theme )[ 0 ];
 		link = name === 'Default' ?
 			'https://bootswatch.com/_vendor/bootstrap/dist/css/bootstrap.css' :
@@ -232,70 +233,11 @@ function setTheme( target ) {
 
 
 
-function setTitle( target ) {
+function updateCss( link ) {
 
-	target.innerHTML =
-
-	`<h2>
-		<a href=${ urlSourceCode } target="_top" ><img src="https://status.github.com/images/invertocat.png" height=18 ></a>
-		<a href = "" title = "Click to reload this page" >${document.title}</a>
-	</h2>
-
-	<p>
-		${ document.head.querySelector( '[name=description]' ).content }
-	</p>`;
-
-}
-
-
-
-
-function setTestingExtras( target ) {
-
-	const txt = '<p>lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?<p>';
-
-	target.innerHTML =
-
-	`<details open >
-
-		<summary>Extras</summary>
-
-		<p>
-			<button class="btn btn-primary" >button</button>
-			<button id=active class="btn btn-primary active" >active</button>
-			<button class="btn btn-primary" onclick=active.classList.remove("active"); >remove active</button>
-			<button class="btn btn-primary" onclick=active.classList.add("active"); >add active</button>
-			<button class="btn btn-primary" onclick=active.classList.toggle("active"); >toggle active</button>
-
-		</p>
-
-		<p><a href="#https://pushme-pullyou.github.io/pages/markdown-help.md" >markdown-help.md</a></p>
-
-		<p><a href="#https://pushme-pullyou.github.io/plugins/iframe-carousel-r1.html" >iframe-carousel-r1.html</a></p>
-
-		<p><a href="#https://pushme-pullyou.github.io/plugins/view-github-issues.html" >view-github-issues.html</a></p>
-
-		<p><a href="#https://pushme-pullyou.github.io/plugins/view-stl.html" >view-stl.html</a></p>
-
-		<p><a href="#https://pushme-pullyou.github.io//utilities/invertocat.png" >invertocat.png</a></p>
-
-		<p><a href="https://bootswatch.com" target=_blank >&#x2750; bootswatch.com</a></p>
-
-		<p><a href="https://validator.w3.org/nu/#textarea" target=_blank >&#x2750; validator</a></p>
-
-	</details>
-
-
-	<details>
-
-		<summary>Text</summary>
-
-		${ txt }
-
-		<hr>
-
-	</details>
-	<br>`;
+	themeName = css.href = link;
+	localStorage.setItem( 'themeName', link );
+	setTheme();
 
 }
 
@@ -317,14 +259,14 @@ function onHashChange() {
 
 		divContents.innerHTML = `<iframe src=${ url } height=100% width=100% ></iframe>`;
 
-	} else if ( /\.(jpe?g|png|ico|svg|gif)$/i.test( ulc )  ) {
+	} else if ( /\.(jpe?g|png|ico|svg|gif)$/i.test( file.name)  ) {
 	//} else if ( ulc.endsWith( '.gif' ) || ulc.endsWith( '.png' ) || ulc.endsWith( '.jpg' ) || ulc.endsWith( '.ico' ) || ulc.endsWith( '.svg' ) ) {
 
 		divContents.innerHTML = `<img src=${ url } >`;
 
 	} else {
 
-		requestFile( url, callbackToTextarea );
+		requestFile( urlGitHubPage + url, callbackToTextarea );
 
 	}
 
@@ -450,7 +392,7 @@ function toggleNav() {
 		divMenu.style.width = width;
 		//divMenu.style.padding = '30px 10px 0 10px';
 		divMenu.style.padding = '1rem';
-		//hamburger.style.left = 'calc( var( --mnu-width ) - 4rem )';
+		hamburger.style.left = 'calc( var( --mnu-width ) - 4rem )';
 		divContainer.style.marginLeft = width;
 
 	}

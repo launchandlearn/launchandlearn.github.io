@@ -7,6 +7,9 @@ value='Edit this page' class="btn btn-primary" title="Download versions availabl
 
 ## MAP 5: JOURNAL MEDITATION
 
+
+howdy stranger
+
 The story of life: Wake up, prepare an amazing breakfast comprising of lots of pancakes for yourself. You sit down to eat and while eating, you check the time only to realize that you have to stop your meal immediately otherwise you'd be late for your 9am appointment. Then, you dash out of the house. Some minutes later, your wife wakes up to find the kitchen dirty and the dishes unwashed. She's angry and she thinks of you as an asshole who can't seem to look after himself. When you return home in the evening, your wife in her elevated brain state calls you a moron. What do you do? You do one of two things. It's either you snap at her or you say something that make her appeal towards you. Emotions and brainwaves are a tad related. Your brain spikes when you overheat it. So, there is a need for you to pause and give your brain time to process when you are in difficult situations.
 
 Want to know why I placed Journaling, planning and meditation in one map? That's because they are all related. If you observe philosophies like Buddhism of the West, otherwise known as stoicism, you'll find that there are many ways to achieve the same thing and in this case, self-actualization works. During meditation, you slow down to observe and likewise when you journal, you slow down and observe. Both meditation and Journaling are similar but the difference is they are done in different ways. In both, you can analyze or can let go. Doing both can help you select what you want the most and what suits you the most.
